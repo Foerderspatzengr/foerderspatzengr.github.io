@@ -26,4 +26,17 @@ const config: GatsbyConfig = {
   }]
 };
 
+module.exports = {
+  plugins: [
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `content`,
+        path: `${__dirname}/src/content`,
+      },
+    },
+    `gatsby-transformer-remark`,
+  ],
+}
+
 export default config;
