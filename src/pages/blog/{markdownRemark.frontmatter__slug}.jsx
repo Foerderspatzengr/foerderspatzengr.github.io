@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 
 export default function BlogPostTemplate({
-                                             data, // this prop will be injected by the GraphQL query below.
+                                             data, children // this prop will be injected by the GraphQL query below.
                                          }) {
     const { markdownRemark } = data // data.markdownRemark holds your post data
     let featuredImg = getImage(data.markdownRemark.frontmatter.featuredImage)
@@ -11,7 +11,8 @@ export default function BlogPostTemplate({
     return (
         <div>
             <div>
-                <h1>{frontmatter.title}</h1>
+                <h1>{data.markdownRemark.frontmatter.title}</h1>
+                {children}
                 <GatsbyImage image={featuredImg} />
                 <div
                     dangerouslySetInnerHTML={{ __html: html }}
@@ -22,7 +23,7 @@ export default function BlogPostTemplate({
 }
 
 export const query = graphql`
-  query PostQuery($id: String) {
+  query ($id: String) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
@@ -36,3 +37,5 @@ export const query = graphql`
     }
   }
 `
+
+export const Head = ({ data }) => <title>{data.markdownRemark.frontmatter.title}</title>

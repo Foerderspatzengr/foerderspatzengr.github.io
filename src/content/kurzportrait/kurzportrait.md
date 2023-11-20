@@ -1,8 +1,11 @@
 ---
-slug: "/kurzportrait"
+slug: "kurzportrait"
+title: "Kurzportrait"
 ---
 
-# Vorstellung 
+[Zurück](/blog)
+
+## Vorstellung 
 
 Seit 1962 gibt es in unserem Haus einen Kindergarten, wir konnten also 2012 unseren 50. Geburtstag feiern.
 
@@ -18,14 +21,14 @@ Kinder mit Behinderung werden in unserer Einrichtung integrativ betreut.
 
 
 
-# Räumlichkeiten
+## Räumlichkeiten
 
 Die Räumlichkeiten unseres Kinderhauses sind entsprechend der Montessori Pädagogik für die Kinder vorbereitet und strukturiert.
 
 So verfügt unsere Einrichtung über eine Krippengruppe und vier Kindergartengruppen, sowie über eine Vielzahl an Räumen, die der künstlerischen, kreativen und sportlichen Betätigung dienen.
 
 
-# Außenanlagen
+## Außenanlagen
 
 Ganz besonders stolz sind wir auf unsere vielfältigen Holzspielgeräte, welche die Kinder auf verschiedenste Art und Weise zu Bewegung und Aktivitäten anregen.
 
@@ -34,12 +37,12 @@ Unser Nutzgarten bietet den Kindern die Möglichkeit, Kräuter und Gemüse selbs
 Auch die hauseigene Küche profitiert von unseren frischen Kräutern, Obst und Gemüse.
 
 
-# Tagesablauf
+## Tagesablauf
 
 Unser regelmäßiger und strukturierter Tagesablauf wirkt sich förderlich auf die Entwicklung der Kinder aus und erleichtert ihnen die Anpassung an die Umwelt.
 
 
-# Essen
+## Essen
 
 Brotbüchsen können bei uns zu Hause bleiben, denn Kinder und Erzieher gestalten das Frühstück und die Vesper vom Einkauf bis zum Verzehr in den Gruppenküchen selbst.
 

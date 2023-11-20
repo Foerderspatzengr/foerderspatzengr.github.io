@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d6752e4-6401-4915-a696-5f9bee428c93" name="Changes" comment="Add image support">
-      <change afterPath="$PROJECT_DIR$/src/content/kinderhaus/kinderhaus.md" afterDir="false" />
+    <list default="true" id="4d6752e4-6401-4915-a696-5f9bee428c93" name="Changes" comment="connect pages">
+      <change afterPath="$PROJECT_DIR$/src/pages/blog/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/kinderhaus.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/kinderhaus/kinderhaus.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/kinderhaus.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/aspekte/aspekte.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/aspekte/aspekte.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/betreuungsarten/betreuungsarten.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/betreuungsarten/betreuungsarten.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/kinderhaus/kinderhaus.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/kinderhaus/kinderhaus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/kurzportrait/kurzportrait.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/kurzportrait/kurzportrait.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/projekte/projekte.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/projekte/projekte.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog/{markdownRemark.frontmatter__slug}.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog/{markdownRemark.frontmatter__slug}.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +23,7 @@
   <component name="Git.Settings">
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -138,6 +144,7 @@
     <MESSAGE value="Initialize Gatsby" />
     <MESSAGE value="Add Markdown" />
     <MESSAGE value="Add image support" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add image support" />
+    <MESSAGE value="connect pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="connect pages" />
   </component>
 </project>
