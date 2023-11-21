@@ -1,6 +1,7 @@
 import * as React from "react"
 import { graphql } from "gatsby"
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
+import Layout from '../../components/layout'
 
 export default function BlogPostTemplate({
                                              data, children // this prop will be injected by the GraphQL query below.
@@ -11,7 +12,7 @@ export default function BlogPostTemplate({
     return (
         <div>
             <div>
-                <h1>{data.markdownRemark.frontmatter.title}</h1>
+                <Layout>{data.markdownRemark.frontmatter.title}</Layout>
                 {children}
                 <GatsbyImage image={featuredImg} />
                 <div

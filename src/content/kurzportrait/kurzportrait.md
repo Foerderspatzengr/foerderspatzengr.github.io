@@ -3,7 +3,6 @@ slug: "kurzportrait"
 title: "Kurzportrait"
 ---
 
-[Zurück](/blog)
 
 ## Vorstellung 
 

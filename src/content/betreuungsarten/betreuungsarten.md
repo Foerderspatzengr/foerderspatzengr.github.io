@@ -3,7 +3,6 @@ slug: "betreuungsarten"
 title: "Angebotene Betreuungsarten zum 20.11.2023:"
 ---
 
-[Zurück](/blog)
 
 | Betreuungsart | Gesamtanzahl Plätze | Anzahl integrativer Plätze |
 |---------------|---------------------|----------------------------|

@@ -1,10 +1,10 @@
 import * as React from 'react'
 import { Link, graphql } from 'gatsby'
+import Layout from '../../components/layout'
 
 const BlogPage = ({ data }) => {
     return (
-        <h1>
-            Blog
+        <Layout pageTitle="Blog">
             {
                 data.allMarkdownRemark.nodes.map((node) => (
                     <article key={node.id}>
@@ -17,7 +17,7 @@ const BlogPage = ({ data }) => {
                     </article>
                 ))
             }
-        </h1>
+        </Layout>
     )
 }
 

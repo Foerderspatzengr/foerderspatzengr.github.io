@@ -3,7 +3,6 @@ slug: "paedagogische-aspekte"
 title: "Pädagogische Aspekte"
 ---
 
-[Zurück](/blog)
 
 ## Zusätzliches Angebot
 
