@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d6752e4-6401-4915-a696-5f9bee428c93" name="Changes" comment="connect pages">
+    <list default="true" id="4d6752e4-6401-4915-a696-5f9bee428c93" name="Changes" comment="add navigation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/aspekte/aspekte.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/aspekte/aspekte.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/betreuungsarten/betreuungsarten.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/betreuungsarten/betreuungsarten.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/kinderhaus/kinderhaus.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/kinderhaus/kinderhaus.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/kurzportrait/kurzportrait.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/kurzportrait/kurzportrait.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/projekte/projekte.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/projekte/projekte.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/blog/{markdownRemark.frontmatter__slug}.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog/{markdownRemark.frontmatter__slug}.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +53,11 @@
       <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr\src" />
+      <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr\src\components" />
       <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr" />
+      <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr\src" />
       <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr\src\content\kinderhaus" />
       <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr\src\content" />
-      <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr\src\images" />
     </key>
   </component>
   <component name="SpaceReviewFiltersPersistance">{
@@ -87,7 +82,12 @@
       <updated>1700209663520</updated>
       <workItem from="1700209666477" duration="17021000" />
       <workItem from="1700471533062" duration="6101000" />
-      <workItem from="1700559627229" duration="1559000" />
+      <workItem from="1700559627229" duration="3520000" />
+      <workItem from="1700748643267" duration="610000" />
+      <workItem from="1700825587211" duration="4009000" />
+      <workItem from="1700829924273" duration="3363000" />
+      <workItem from="1701071803923" duration="13914000" />
+      <workItem from="1701158287197" duration="680000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize Gatsby">
       <option name="closed" value="true" />
@@ -121,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700498088128</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add navigation">
+      <option name="closed" value="true" />
+      <created>1700561254565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700561254565</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +164,7 @@
     <MESSAGE value="Add Markdown" />
     <MESSAGE value="Add image support" />
     <MESSAGE value="connect pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="connect pages" />
+    <MESSAGE value="add navigation" />
+    <option name="LAST_COMMIT_MESSAGE" value="add navigation" />
   </component>
 </project>

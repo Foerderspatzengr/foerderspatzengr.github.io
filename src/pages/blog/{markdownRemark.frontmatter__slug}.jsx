@@ -4,13 +4,13 @@ import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import Layout from '../../components/layout'
 
 export default function BlogPostTemplate({
-                                             data // this prop will be injected by the GraphQL query below.
+                                             data// this prop will be injected by the GraphQL query below.
                                          }) {
     const { markdownRemark } = data // data.markdownRemark holds your post data
     let featuredImg = getImage(data.markdownRemark.frontmatter.featuredImage)
     const { frontmatter, html } = markdownRemark
     return (
-        <Layout pageTitle={data.markdownRemark.frontmatter.title}>
+        <Layout pageTitle={frontmatter.title} slug={frontmatter.slug}>
             <GatsbyImage image={featuredImg} />
             <div dangerouslySetInnerHTML={{ __html: html }} />
         </Layout>
@@ -23,9 +23,10 @@ export const query = graphql`
       html
       frontmatter {
         title
+        slug
         featuredImage {
           childImageSharp {
-            gatsbyImageData(width:480)
+            gatsbyImageData 
           }
         }
       }

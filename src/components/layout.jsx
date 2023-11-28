@@ -25,8 +25,9 @@ const codeStyles = {
   borderRadius: 4,
 }
 const listStyles = {
-  marginBottom: 96,
-  paddingLeft: 0,
+    display: "flex",
+    listStyle: "none",
+    paddingLeft: "0.5rem",
 }
 const doclistStyles = {
   paddingLeft: 0,
@@ -36,6 +37,7 @@ const listItemStyles = {
   fontSize: 24,
   maxWidth: 560,
   marginBottom: 30,
+    paddingRight: "1rem",
 }
 
 const linkStyle = {
@@ -77,16 +79,22 @@ const badgeStyle = {
   lineHeight: 1,
 }
 
-const Layout = ({ pageTitle, children }) => {
+const blogStyles = {
+    kinderhaus: {
+        float: "left"
+    },
+}
+
+const Layout = ({ pageTitle, slug, children }) => {
     return (
         <div style={pageStyles}>
             <nav>
-                <ul>
-                    <li><Link to="/">Startseite</Link></li>
-                    <li><Link to="/blog">Blog</Link></li>
+                <ul style={listStyles}>
+                    <li style={listItemStyles}><Link to="/">Startseite</Link></li>
+                    <li style={listItemStyles}><Link to="/blog">Blog</Link></li>
                 </ul>
             </nav>
-            <main>
+            <main style={blogStyles[slug] || {}}>
                 <h1>{pageTitle}</h1>
                 {children}
             </main>
