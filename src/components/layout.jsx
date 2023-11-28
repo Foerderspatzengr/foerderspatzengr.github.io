@@ -1,5 +1,7 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
+import './global.css'
+
 
 const pageStyles = {
   color: "#232129",
@@ -81,7 +83,7 @@ const badgeStyle = {
 
 const blogStyles = {
     kinderhaus: {
-        float: "left"
+
     },
 }
 
@@ -94,7 +96,7 @@ const Layout = ({ pageTitle, slug, children }) => {
                     <li style={listItemStyles}><Link to="/blog">Blog</Link></li>
                 </ul>
             </nav>
-            <main style={blogStyles[slug] || {}}>
+            <main className={slug}>
                 <h1>{pageTitle}</h1>
                 {children}
             </main>
