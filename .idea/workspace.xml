@@ -95,7 +95,7 @@
       <workItem from="1700829924273" duration="3363000" />
       <workItem from="1701071803923" duration="13914000" />
       <workItem from="1701158287197" duration="13515000" />
-      <workItem from="1701245568051" duration="2862000" />
+      <workItem from="1701245568051" duration="3708000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize Gatsby">
       <option name="closed" value="true" />
@@ -153,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701185207070</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="resize image with object-fit">
+      <option name="closed" value="true" />
+      <created>1701250461711</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701250461711</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

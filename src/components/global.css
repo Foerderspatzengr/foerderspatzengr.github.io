@@ -9,3 +9,10 @@ p img{
     max-height: 200px;
     object-fit: cover;
 }
+main.projekte .gatsby-image-wrapper {
+    width: 1546px;
+    height: auto;
+    max-width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+}

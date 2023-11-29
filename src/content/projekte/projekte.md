@@ -1,5 +1,5 @@
 ---
-slug: "aktivitaeten-und-ereignisse"
+slug: "projekte"
 title: "Projekte"
 featuredImage: "./projekte.jpg"
 hero_image_credit_link: "https://portal.little-bird.de/Artikelbild/1872f9fd-dc08-11ec-bb30-0201f7cef672/44fd1158-1f77-11eb-95e6-48df37920e6f"
