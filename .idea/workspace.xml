@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d6752e4-6401-4915-a696-5f9bee428c93" name="Changes" comment="resize image with object-fit">
+    <list default="true" id="4d6752e4-6401-4915-a696-5f9bee428c93" name="Changes" comment="resize gatsby image with object-fit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/global.css" afterDir="false" />
     </list>
@@ -95,7 +95,7 @@
       <workItem from="1700829924273" duration="3363000" />
       <workItem from="1701071803923" duration="13914000" />
       <workItem from="1701158287197" duration="13515000" />
-      <workItem from="1701245568051" duration="3708000" />
+      <workItem from="1701245568051" duration="6310000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize Gatsby">
       <option name="closed" value="true" />
@@ -161,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701250461711</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="resize gatsby image with object-fit">
+      <option name="closed" value="true" />
+      <created>1701256628784</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701256628784</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +207,7 @@
     <MESSAGE value="add navigation" />
     <MESSAGE value="improve navigation menu" />
     <MESSAGE value="resize image with object-fit" />
-    <option name="LAST_COMMIT_MESSAGE" value="resize image with object-fit" />
+    <MESSAGE value="resize gatsby image with object-fit" />
+    <option name="LAST_COMMIT_MESSAGE" value="resize gatsby image with object-fit" />
   </component>
 </project>

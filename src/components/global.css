@@ -2,7 +2,7 @@ main.kinderhaus .gatsby-image-wrapper {
     float: left;
     margin: 0 1rem 1rem 0;
 }
-p img{
+main.projekte p img{
     width: 1546px;
     height: auto;
     max-width: 100%;
@@ -16,3 +16,12 @@ main.projekte .gatsby-image-wrapper {
     max-height: 200px;
     object-fit: cover;
 }
+main.projekte {
+    position: relative;
+}
+main.projekte h1 {
+    position: absolute;
+    margin-left: 10px;
+    z-index: 1;
+}
+
