@@ -21,7 +21,7 @@ main.projekte {
 }
 main.projekte h1 {
     position: absolute;
-    margin-left: 10px;
+    inset: 0 0 0 10px;
     z-index: 1;
 }
 
