@@ -1,6 +1,8 @@
 ---
-slug: "paedagogische-aspekte"
+slug: "aspekte"
 title: "Pädagogische Aspekte"
+featuredImage: "./aspekte.jpg"
+hero_image_credit_link: "https://portal.little-bird.de/images/article/full/434de44d-1f77-11eb-95e6-48df37920e6f.jpg"
 ---
 
 

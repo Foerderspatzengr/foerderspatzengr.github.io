@@ -1,6 +1,8 @@
 ---
 slug: "kurzportrait"
 title: "Kurzportrait"
+featuredImage: "./kurzportrait.jpg"
+hero_image_credit_link: "https://portal.little-bird.de/images/article/full/42ac4c67-1f77-11eb-95e6-48df37920e6f.jpg"
 ---
 
 
@@ -16,7 +18,9 @@ Es gilt der Leitspruch: “Hilf mir, es selbst zu tun”.
 
 Wir verfügen über ein großzügiges Außengelände mit viel Platz für Bewegung und einem Nutzgarten, in dem die Kinder z.B. Kräuter anbauen können.
 
-Kinder mit Behinderung werden in unserer Einrichtung integrativ betreut. 
+Kinder mit Behinderung werden in unserer Einrichtung integrativ betreut.
+
+
 
 
 
