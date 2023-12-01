@@ -4,6 +4,7 @@ import Layout from '../../components/layout'
 
 const BlogPage = ({ data }) => {
     return (
+        <main className="blog">
         <Layout pageTitle="Blog">
             {
                 data.allMarkdownRemark.nodes.map((node) => (
@@ -18,6 +19,7 @@ const BlogPage = ({ data }) => {
                 ))
             }
         </Layout>
+</main>
     )
 }
 

@@ -16,7 +16,7 @@ main .gatsby-image-wrapper {
 main {
     position: relative;
 }
-main.kinderhaus h1 {
+main h1 {
     position: absolute;
     inset: 6rem 1rem auto 1rem;
     z-index: 1;
@@ -24,28 +24,29 @@ main.kinderhaus h1 {
     color: #fff;
     text-shadow: 0 0 8px black;
 }
-main.projekte h1 {
-    position: absolute;
-    inset: 6rem 1rem auto 1rem;
-    z-index: 1;
-    text-align: center;
-    color: #fff;
-    text-shadow: 0 0 8px black;
+main.startseite h1 {
+    position: unset;
+    inset: unset;
+    z-index: unset;
+    text-align: unset;
+    color: unset;
+    text-shadow: unset;
 }
-main.kurzportrait h1 {
-    position: absolute;
-    inset: 6rem 1rem auto 1rem;
-    z-index: 1;
-    text-align: center;
-    color: #fff;
-    text-shadow: 0 0 8px black;
+main.blog h1 {
+    position: unset;
+    inset: unset;
+    z-index: unset;
+    text-align: unset;
+    color: unset;
+    text-shadow: unset;
 }
-main.aspekte h1 {
-    position: absolute;
-    inset: 6rem 1rem auto 1rem;
-    z-index: 1;
-    text-align: center;
-    color: #fff;
-    text-shadow: 0 0 8px black;
+main.betreuungsarten h1 {
+    position: unset;
+    inset: unset;
+    z-index: unset;
+    text-align: unset;
+    color: unset;
+    text-shadow: unset;
 }
+
 
