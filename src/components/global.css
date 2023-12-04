@@ -42,5 +42,7 @@ main.startseite h2 a {
     color: white;
     background-color: darkslateblue;
 }
-
+main.startseite article {
+    padding: 1px;
+}
 
