@@ -7,7 +7,8 @@
     <list default="true" id="4d6752e4-6401-4915-a696-5f9bee428c93" name="Changes" comment="apply projekte-style to all blog pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog/index.jsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,11 +63,11 @@
       <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr\src\pages\blog" />
       <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr\src\components" />
       <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr" />
       <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr\src" />
       <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr\src\content\kinderhaus" />
-      <recent name="C:\Users\roman\WebstormProjects\fvsnabwgr\src\content" />
     </key>
   </component>
   <component name="SpaceReviewFiltersPersistance">{

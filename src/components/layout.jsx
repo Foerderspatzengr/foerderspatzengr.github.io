@@ -93,7 +93,6 @@ const Layout = ({ pageTitle, slug, children }) => {
             <nav>
                 <ul style={listStyles}>
                     <li style={listItemStyles}><Link to="/">Startseite</Link></li>
-                    <li style={listItemStyles}><Link to="/blog">Blog</Link></li>
                 </ul>
             </nav>
             <main className={slug}>
