@@ -34,6 +34,13 @@ main.betreuungsarten h1 {
     color: unset;
     text-shadow: unset;
 }
-
+main.startseite h2 a {
+    border: 2px solid darkgray;
+    padding: 8px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+    background-color: darkslateblue;
+}
 
 

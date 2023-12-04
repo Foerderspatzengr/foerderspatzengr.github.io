@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d6752e4-6401-4915-a696-5f9bee428c93" name="Changes" comment="apply projekte-style to all blog pages">
+    <list default="true" id="4d6752e4-6401-4915-a696-5f9bee428c93" name="Changes" comment="merge main and blog pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/index.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701339325135</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="merge main and blog pages">
+      <option name="closed" value="true" />
+      <created>1701697290231</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701697290231</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +245,7 @@
     <MESSAGE value="put headline in mage" />
     <MESSAGE value="styling improvement" />
     <MESSAGE value="apply projekte-style to all blog pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="apply projekte-style to all blog pages" />
+    <MESSAGE value="merge main and blog pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge main and blog pages" />
   </component>
 </project>
