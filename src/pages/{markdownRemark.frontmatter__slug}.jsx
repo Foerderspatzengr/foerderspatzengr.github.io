@@ -1,7 +1,7 @@
 import * as React from "react"
 import { graphql } from "gatsby"
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
-import Layout from '../../components/layout'
+import Layout from '../components/layout'
 
 export default function BlogPostTemplate({
                                              data// this prop will be injected by the GraphQL query below.

@@ -12,7 +12,7 @@ const IndexPage: React.FC<PageProps> = ({ data }) => {
               data.allMarkdownRemark.nodes.map((node) => (
                   <article key={node.id}>
                       <h2>
-                          <Link to={`/blog/${node.frontmatter.slug}`}>
+                          <Link to={`/${node.frontmatter.slug}`}>
                               {node.frontmatter.title}
                           </Link>
                       </h2>
