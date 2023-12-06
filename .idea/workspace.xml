@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d6752e4-6401-4915-a696-5f9bee428c93" name="Changes" comment="styling improvement">
+    <list default="true" id="4d6752e4-6401-4915-a696-5f9bee428c93" name="Changes" comment="turn 'kinderhaus' page into contact page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/global.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/kinderhaus/kinderhaus.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/kinderhaus/kinderhaus.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/{markdownRemark.frontmatter__slug}.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/{markdownRemark.frontmatter__slug}.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +100,7 @@
       <workItem from="1701331364707" duration="7057000" />
       <workItem from="1701417669010" duration="2424000" />
       <workItem from="1701763394271" duration="5308000" />
+      <workItem from="1701861124950" duration="5011000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize Gatsby">
       <option name="closed" value="true" />
