@@ -10,7 +10,7 @@ const IndexPage: React.FC<PageProps> = ({ data }) => {
           <h2>Blog</h2>
           {
               data.allMarkdownRemark.nodes
-            	.filter((node) => node.frontmatter.excludeFromBlog !== 'true')
+            	.filter((node) => !node.frontmatter.excludeFromBlog)
             	.map((node) => (
                   <article key={node.id}>
                       <h2>
