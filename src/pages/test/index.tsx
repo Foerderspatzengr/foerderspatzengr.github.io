@@ -37,7 +37,7 @@ const contactPage = (result) => {
     return (
         <main className="test">
         <Layout pageTitle="Kinderhaus Spatzennest am Birkenwäldchen">
-            <GatsbyImage image={result.data.file.childImageSharp}/>
+            <GatsbyImage image={result.data.file.childImageSharp.gatsbyImageData}/>
             <div className="info" >
                 <div className="property">
                     <span className="key" style={addresseStyle}>Adresse</span>
