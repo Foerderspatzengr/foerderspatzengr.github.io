@@ -1,7 +1,9 @@
 import * as React from "react"
-import { StaticImage } from 'gatsby-plugin-image'
+import { GatsbyImage } from 'gatsby-plugin-image'
 import Layout from '../../components/layout'
 import '../../components/global.css'
+import { graphql } from "gatsby" 
+
 
 const addresseStyle = {
     paddingRight: "302px"
@@ -31,11 +33,11 @@ const besonderheitenStyle = {
     paddingRight: "249px"
 }
 
-const contactPage = () => {
+const contactPage = (result) => {
     return (
         <main className="test">
         <Layout pageTitle="Kinderhaus Spatzennest am Birkenwäldchen">
-            <StaticImage src="./kinderhaus.jpg"/>
+            <GatsbyImage image={result.data.file.childImageSharp}/>
             <div className="info" >
                 <div className="property">
                     <span className="key" style={addresseStyle}>Adresse</span>
@@ -70,6 +72,15 @@ const contactPage = () => {
         </main>
     )
 }
+export const titlequery = graphql`
+  	query titlequery {
+  		file(relativePath: {eq: "kinderhaus/kinderhaus.jpg"}) {
+    		childImageSharp {
+      			gatsbyImageData
+    		}
+  		}
+	}
+`
 
 export const Head = () => <title>Test</title>
 export default contactPage
