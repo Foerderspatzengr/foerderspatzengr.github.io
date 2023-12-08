@@ -45,7 +45,6 @@ main.startseite h2 a {
 main.startseite article {
     padding: 1px;
 }
-
 main.contact table {
     display: flex;
     flex-direction: column;
@@ -63,4 +62,11 @@ main.contact table td {
 }
 main.contact table thead {
     padding-bottom: 10px;
+}
+main.test .info {
+    display: flex;
+    flex-direction: column
+}
+main.test .property {
+    padding-top: 1rem;
 }
