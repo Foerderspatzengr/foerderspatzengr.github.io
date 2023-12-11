@@ -63,10 +63,16 @@ main.contact table td {
 main.contact table thead {
     padding-bottom: 10px;
 }
-main.test .info {
-    display: flex;
-    flex-direction: column
-}
 main.test .property {
+    display: flex;
     padding-top: 1rem;
+}
+main.test span {
+    display: block;
+}
+main.test .key {
+    flex: 0 0 18rem;
+}
+main.test .value {
+    flex: 1 1 auto;
 }
