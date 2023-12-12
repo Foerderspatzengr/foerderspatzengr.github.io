@@ -45,34 +45,16 @@ main.startseite h2 a {
 main.startseite article {
     padding: 1px;
 }
-main.contact table {
-    display: flex;
-    flex-direction: column;
-}
-main.contact .gatsby-image-wrapper {
-    margin-bottom: 15px;
-}
-main.contact table th {
-    font-weight: unset;
-    padding-right: 302px;
-}
-main.contact table td {
-    padding-right: 100px;
-    padding-bottom: 15px;
-}
-main.contact table thead {
-    padding-bottom: 10px;
-}
-main.test .property {
+main.contact .property {
     display: flex;
     padding-top: 1rem;
 }
-main.test span {
+main.contact span {
     display: block;
 }
-main.test .key {
+main.contact .key {
     flex: 0 0 18rem;
 }
-main.test .value {
+main.contact .value {
     flex: 1 1 auto;
 }

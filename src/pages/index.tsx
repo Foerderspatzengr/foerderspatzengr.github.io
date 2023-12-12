@@ -9,9 +9,7 @@ const IndexPage: React.FC<PageProps> = ({ data }) => {
       <Layout pageTitle="Startseite">
           <h2>Blog</h2>
           {
-              data.allMarkdownRemark.nodes
-            	.filter((node) => !node.frontmatter.excludeFromBlog)
-            	.map((node) => (
+              data.allMarkdownRemark.nodes.map((node) => (
                   <article key={node.id}>
                       <h2>
                           <Link to={`/${node.frontmatter.slug}`}>
@@ -35,7 +33,6 @@ query {
       frontmatter {
         slug
         title
-        excludeFromBlog
       }
       id
     }

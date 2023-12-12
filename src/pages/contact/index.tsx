@@ -6,7 +6,7 @@ import { graphql } from "gatsby"
 
 const contactPage = (result) => {
     return (
-        <main className="test">
+        <main className="contact">
         <Layout pageTitle="Kinderhaus Spatzennest am Birkenwäldchen">
             <GatsbyImage image={result.data.file.childImageSharp.gatsbyImageData}/>
             <div className="info" >
@@ -45,7 +45,7 @@ const contactPage = (result) => {
 }
 export const titlequery = graphql`
   	query titlequery {
-  		file(relativePath: {eq: "kinderhaus/kinderhaus.jpg"}) {
+  		file(relativePath: {eq: "kinderhaus.jpg"}) {
     		childImageSharp {
       			gatsbyImageData
     		}
@@ -53,5 +53,5 @@ export const titlequery = graphql`
 	}
 `
 
-export const Head = () => <title>Test</title>
+export const Head = () => <title>Contact</title>
 export default contactPage
