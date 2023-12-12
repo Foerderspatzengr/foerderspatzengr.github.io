@@ -12,11 +12,11 @@ const contactPage = (result) => {
             <div className="info" >
                 <div className="property">
                     <span className="key">Adresse</span>
-                    <span className="value">Kinderhaus Spatzennest am Birkenwäldchen Heinrich-Heine-Straße 33D02826 Görlitz</span>
+                    <span className="value">Kinderhaus Spatzennest am Birkenwäldchen, Heinrich-Heine-Straße 33D, 02826 Görlitz</span>
                 </div>
                 <div className="property">
                     <span className="key">Träger</span>
-                    <span className="value">Stadt Görlitz Untermarkt 6-8 02826 Görlitz</span>
+                    <span className="value">Stadt Görlitz, Untermarkt 6-8, 02826 Görlitz</span>
                 </div>
                 <div className="property">
                     <span className="key">E-Mail</span>
