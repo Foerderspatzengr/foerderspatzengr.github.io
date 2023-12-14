@@ -94,10 +94,11 @@ const Layout = ({ pageTitle, slug, children }) => {
                 <ul style={listStyles}>
                     <li style={listItemStyles}><Link to="/">Startseite</Link></li>
                     <li style={listItemStyles}><Link to="/contact">Contact</Link></li>
+                    <li style={listItemStyles}><Link to="/datenschutz">Datenschutzerklärung</Link></li>
                 </ul>
             </nav>
             <main className={slug}>
-                <h1>{pageTitle}</h1>
+            <h1>{pageTitle}</h1>
                 {children}
             </main>
         </div>

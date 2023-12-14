@@ -26,7 +26,8 @@ main h1 {
 }
 main.startseite h1,
 main.blog h1,
-main.betreuungsarten h1 {
+main.betreuungsarten h1,
+main.datenschutz h1 {
     position: unset;
     inset: unset;
     z-index: unset;
