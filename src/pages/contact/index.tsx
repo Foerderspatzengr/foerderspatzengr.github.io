@@ -12,19 +12,15 @@ const contactPage = (result) => {
             <div className="info" >
                 <div className="property">
                     <span className="key">Adresse</span>
-                    <span className="value">Kinderhaus Spatzennest am Birkenwäldchen, Heinrich-Heine-Straße 33D, 02826 Görlitz</span>
+                    <span className="value">Kinderhaus Spatzennest am Birkenwäldchen, Heinrich-Heine-Straße 33D, 02827 Görlitz</span>
                 </div>
                 <div className="property">
                     <span className="key">Träger</span>
-                    <span className="value">Stadt Görlitz, Untermarkt 6-8, 02826 Görlitz</span>
-                </div>
-                <div className="property">
-                    <span className="key">E-Mail</span>
-                    <span className="value">s.hennig@goerlitz.de</span>
+                    <span className="value">Förderverein des Montessorikinderhauses Spatzennest in Görlitz e.V. c/o Kinderhaus Spatzennest</span>
                 </div>
                 <div className="property">
                     <span className="key">Telefon</span>
-                    <span className="value">03581/765640 (Frau Hennig)</span>
+                    <span className="value">+49-1520-4738965</span>
                 </div>
                 <div className="property">
                     <span className="key">Öffnungszeiten</span>
