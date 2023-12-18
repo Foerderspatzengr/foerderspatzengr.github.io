@@ -12,7 +12,8 @@ const contactPage = (result) => {
             <div className="info" >
                 <div className="property">
                     <span className="key">Adresse</span>
-                    <span className="value">Kinderhaus Spatzennest am Birkenwäldchen, Heinrich-Heine-Straße 33D, 02827 Görlitz</span>
+                    <span
+                        className="value">Kinderhaus Spatzennest am Birkenwäldchen <br/> Heinrich-Heine-Straße 33D <br/> 02827 Görlitz</span>
                 </div>
                 <div className="property">
                     <span className="key">Träger</span>

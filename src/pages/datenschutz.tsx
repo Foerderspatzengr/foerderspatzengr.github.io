@@ -52,9 +52,9 @@ const datenSchutz = () => {
                 vor
                 dem Zugriff durch Dritte ist nicht m&ouml;glich.</p><h3>Hinweis zur verantwortlichen Stelle</h3><p>Die
                 verantwortliche Stelle f&uuml;r die Datenverarbeitung auf
-                dieser Website ist:</p><p>Förderverein des Montessorikinderhauses Spatzennest in Görlitz e.V.
-            c/o Kinderhaus Spatzennest
-            Heinrich-Heine-Straße 33d
+                dieser Website ist:</p><p>Förderverein des Montessorikinderhauses Spatzennest in Görlitz e.V. <br/>
+            c/o Kinderhaus Spatzennest <br/>
+            Heinrich-Heine-Straße 33d <br/>
             02827 Görlitz</p><p>Telefon: +49-1520-4738965<br/></p><p>Verantwortliche Stelle ist die
                 nat&uuml;rliche oder juristische Person, die allein oder gemeinsam mit anderen
                 &uuml;ber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.&nbsp;B. Namen, E-Mail-
