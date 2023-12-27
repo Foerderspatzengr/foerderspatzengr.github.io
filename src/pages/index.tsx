@@ -7,7 +7,7 @@ const IndexPage: React.FC<PageProps> = ({ data }) => {
   return (
     <main className="startseite">
       <Layout pageTitle="Montessori-Kinderhaus Spatzennest am Birkenwäldchen">
-          <p>Bitte haben Sie noch etwas Geduld. Wir arbeiten derzeit an der Inhalten. Vielen Dank!</p>
+          <p>Bitte haben Sie noch etwas Geduld. Wir arbeiten derzeit sowohl an der Inhalten als auch am Erscheinungsbild. Vielen Dank!</p>
           {
               data.allMarkdownRemark.nodes.map((node) => (
                   <article key={node.id}>

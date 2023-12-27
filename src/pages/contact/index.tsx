@@ -7,8 +7,8 @@ import { graphql } from "gatsby"
 const contactPage = (result) => {
     return (
         <main className="contact">
-        <Layout pageTitle="Kinderhaus Spatzennest am Birkenwäldchen">
-            <GatsbyImage image={result.data.file.childImageSharp.gatsbyImageData}/>
+        <Layout pageTitle="Kontakt">
+            <GatsbyImage alt="" image={result.data.file.childImageSharp.gatsbyImageData}/>
             <div className="info" >
                 <div className="property">
                     <span className="key">Adresse</span>

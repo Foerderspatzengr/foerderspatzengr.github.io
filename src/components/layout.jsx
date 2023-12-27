@@ -93,7 +93,8 @@ const Layout = ({ pageTitle, slug, children }) => {
             <nav>
                 <ul style={listStyles}>
                     <li style={listItemStyles}><Link to="/">Startseite</Link></li>
-                    <li style={listItemStyles}><Link to="/contact">Contact</Link></li>
+                    <li style={listItemStyles}><Link to="/nachspielzeit">Nachspielzeit</Link></li>
+                    <li style={listItemStyles}><Link to="/contact">Kontakt</Link></li>
                     <li style={listItemStyles}><Link to="/datenschutz">Datenschutzerklärung</Link></li>
                 </ul>
             </nav>
