@@ -6,8 +6,8 @@ import {graphql, Link} from "gatsby";
 const IndexPage: React.FC<PageProps> = ({ data }) => {
   return (
     <main className="startseite">
-      <Layout pageTitle="Startseite">
-          <h2>Blog</h2>
+      <Layout pageTitle="Montessori-Kinderhaus Spatzennest am Birkenwäldchen">
+          <p>Bitte haben Sie noch etwas Geduld. Wir arbeiten derzeit an der Inhalten. Vielen Dank!</p>
           {
               data.allMarkdownRemark.nodes.map((node) => (
                   <article key={node.id}>
@@ -39,7 +39,6 @@ query {
   }
 }
 `
+export const Head: HeadFC = () => <title>Montessori-Kinderhaus Spatzennest am Birkenwäldchen</title>
 
 export default IndexPage
-
-export const Head: HeadFC = () => <title>Home Page</title>
