@@ -20,11 +20,9 @@ const afterHoursPage = ({data}) => {
                     Eltern die Abholung nicht rechtzeitig vor Beginn der Veranstaltung realisieren können, ist es
                     möglich, einem Elternteil eines anderen teilnehmenden Kitakindes eine schriftliche Abholerlaubnis zu
                     erteilen.</p>
-                <p>Während der Veranstaltung ist vom pädagogischen Kitapersonal niemand mehr anwesend und das
-                    Abschließen das Hauses nach der Veranstaltung wird freundlicherweise vom Hausmeisterdienst
-                    übernommen, der extra dafür jemanden länger bereitstellt. Daher ist nach Ende der Veranstaltung der
-                    Aufenthalt in der Kita nicht mehr gestattet und das Gebäude ist auf direktem Wege zu verlassen,
-                    damit niemand versehentlich eingeschlossen wird.</p>
+                <p>Das Kinderhaus schließt auch an einem solchen Tag regulär um 16:30 Uhr. Daher ist nach Ende der
+                    Veranstaltung der Aufenthalt in der Kita nicht mehr gestattet und das Gebäude ist auf direktem Wege
+                    zu verlassen, damit niemand versehentlich eingeschlossen wird.</p>
                 <h2>Dienstag, 2024-02-06: „Wir verzaubern das neue Jahr“</h2>
                 <p>… mit Magier <a href="https://www.zauberstudio-kittlitz.de/">Peter Schulz</a> aus Kittlitz.</p>
                 <ul>
