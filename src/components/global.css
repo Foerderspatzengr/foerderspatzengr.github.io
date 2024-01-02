@@ -64,21 +64,24 @@ main.contact .value {
     main h1 {inset: 5rem 1rem auto 1rem; font-size: x-large;}
     main.startseite h2 a {display: inline-flex}
     main h2 {font-size: 18px;}
+    body {margin: -50px}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
     main.startseite h2 a {display: inline-flex}
+    main h1 {inset: 5rem 1rem auto 1rem;}
+    body {margin: -50px}
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-
+    body {margin: -20px}
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-
+    body {margin: unset}
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
