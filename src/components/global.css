@@ -59,3 +59,29 @@ main.contact .key {
 main.contact .value {
     flex: 1 1 auto;
 }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    main h1 {inset: 5rem 1rem auto 1rem; font-size: x-large;}
+    main.startseite h2 a {display: inline-flex}
+    main h2 {font-size: 18px;}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    main.startseite h2 a {display: inline-flex}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
