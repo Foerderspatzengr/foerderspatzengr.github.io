@@ -34,7 +34,6 @@ const afterHoursPage = ({data}) => {
                     Mäuschengruppe führt).</p>
                 <ul>
                     <li><a href="/20240206-nachspielzeit.pdf">Plakat als PDF</a></li>
-                    <li><a href="/20240206-nachspielzeit-teilnahmeliste.pdf">Teilnahmeliste als PDF</a></li>
                     <li><a href="/20240206-nachspielzeit.ics">Termin als iCal</a></li>
                 </ul>
             </Layout>
