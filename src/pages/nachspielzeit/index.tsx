@@ -23,14 +23,21 @@ const afterHoursPage = ({data}) => {
                 <p>Das Kinderhaus schließt auch an einem solchen Tag regulär um 16:30 Uhr. Daher ist nach Ende der
                     Veranstaltung der Aufenthalt in der Kita nicht mehr gestattet und das Gebäude ist auf direktem Wege
                     zu verlassen, damit niemand versehentlich eingeschlossen wird.</p>
-                <h2>Mittwoch, 2024-04-17: „Es blubbert in den Birken“</h2>
+                <h2>Mittwoch, 2024-08-14: „Quietschvergnügt und voll verdreht“</h2>
+                <ul>
+                    <li>von 15:30 Uhr</li>
+                    <li>bis 17:30 Uhr</li>
+                    <li>am Schachfeld im Birkenwäldchen</li>
+                    <li><a href="/20240814-nachspielzeit-3.pdf">Plakat als PDF</a></li>
+                </ul>
+                <h2>Vergangene Veranstaltungen</h2>
+                <h3>Mittwoch, 2024-04-17: „Es blubbert in den Birken“</h3>
                 <ul>
                     <li>von 15:30 Uhr</li>
                     <li>bis 16:30 Uhr</li>
                     <li>am Schachfeld im Birkenwäldchen</li>
                     <li><a href="/20240417-nachspielzeit-2.pdf">Plakat als PDF</a></li>
                 </ul>
-                <h2>Vergangene Veranstaltungen</h2>
                 <h3>Dienstag, 2024-02-06: „Wir verzaubern das neue Jahr“</h3>
                 <p>… mit Magier <a href="https://www.zauberstudio-kittlitz.de/">Peter Schulz</a> aus Kittlitz.</p>
                 <ul>
