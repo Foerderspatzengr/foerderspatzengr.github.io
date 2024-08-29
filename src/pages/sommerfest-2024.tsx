@@ -6,9 +6,8 @@ import {AudioPlayerAndDownload} from "../components/audio-player-and-download";
 import {graphql} from "gatsby";
 import {GatsbyImage} from "gatsby-plugin-image";
 
-const {crypto: {subtle}} = window;
-
 const decrypt = async (password: string, iv: Uint8Array, salt: Uint8Array, data: Uint8Array): Promise<string> => {
+    const {crypto: {subtle}} = window;
     const key = await subtle.deriveKey(
         {
             name: "PBKDF2",
