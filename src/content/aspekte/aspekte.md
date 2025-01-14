@@ -12,7 +12,7 @@ Um das Gemeinschaftsgefühl und das Selbstvertrauen der Vorschulkinder zu stärk
 Stadt-, Sport- und Theaterprojekte sowie Yoga an. Kinder ab vier Jahren haben einmal wöchentlich die Möglichkeit, gegen eine Gebühr an der musikalischen Früherziehung der Musikschule "Johann Adam Hiller" teilzunehmen. Diese findet wöchentlich in unserer Einrichtung statt.
 
 
-## Pädagogische Grundlagen
+## Pädagogische Grundlagen (old)
 
 Grundlage unserer pädagogischen Arbeit ist die Montessori Pädagogik in Verbindung mit dem Sächsischen Bildungsplan.
 

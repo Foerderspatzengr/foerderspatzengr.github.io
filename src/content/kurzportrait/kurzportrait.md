@@ -52,14 +52,14 @@ freies Spiel und Rollenspiel.
 
 
 
-## Räumlichkeiten
+## Räumlichkeiten (old)
 
 Die Räumlichkeiten unseres Kinderhauses sind entsprechend der Montessori Pädagogik für die Kinder vorbereitet und strukturiert.
 
 So verfügt unsere Einrichtung über eine Krippengruppe und vier Kindergartengruppen, sowie über eine Vielzahl an Räumen, die der künstlerischen, kreativen und sportlichen Betätigung dienen.
 
 
-## Außenanlagen
+## Außenanlagen (old)
 
 Ganz besonders stolz sind wir auf unsere vielfältigen Holzspielgeräte, welche die Kinder auf verschiedenste Art und Weise zu Bewegung und Aktivitäten anregen.
 
