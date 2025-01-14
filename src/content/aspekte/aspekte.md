@@ -39,13 +39,13 @@ ihr theoretisches Wissen in der Praxis anzuwenden. Wir bieten ihnen ein inspirie
 in dem sie von unseren erfahrenen Mitarbeiterinnen lernen können.
 
 
-## Zusammenarbeit Schule und Hort
 
-Auf Grund unseres Einzugsgebietes besteht zwischen der Grundschule 6 und 10 und dem Kinderhaus jeweils ein Kooperationsvertag. Im Interesse der Kinder halten wir ggf. auch zu anderen Grund- bzw. Förderschulen einen guten Kontakt.
-
-Im letzten Kindergartenjahr lernen die Kinder die Beratungslehrer/innen in unserem Haus kennen.
-
-Zudem erhalten die Eltern in einem Vorschulelternabend Tipps und Anregungen, um den Kindern den Übergang vom Kindergarten zur Schule zu erleichtern.
+## Wie gestaltet sich die Zusammenarbeit zwischen dem Kinderhaus und der Schule?
+Wir legen großen Wert darauf, dass der Übergang der Kinder vom Kinderhaus zur Grundschule
+reibungslos verläuft. Zudem organisieren wir einen Vorschulelternabend, auf dem wir den Eltern
+Tipps und Anregungen geben, um den Übergang ihrer Kinder vom Kinderhausjahr zur Schule zu
+erleichtern. Wir möchten sicherstellen, dass die Eltern gut informiert sind und die Möglichkeit
+haben, ihre Kinder bestmöglich auf diesen wichtigen Schritt vorzubereiten.
 
 
 
