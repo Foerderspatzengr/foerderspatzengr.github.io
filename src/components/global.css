@@ -27,6 +27,7 @@ main h1 {
 main.startseite h1,
 main.blog h1,
 main.betreuungsarten h1,
+main.tagesablauf h1,
 main.datenschutz h1 {
     position: unset;
     inset: unset;
@@ -35,6 +36,7 @@ main.datenschutz h1 {
     color: unset;
     text-shadow: unset;
 }
+
 main.startseite h2 a {
     border: 2px solid darkgray;
     padding: 8px;
