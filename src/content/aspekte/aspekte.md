@@ -6,9 +6,10 @@ hero_image_credit_link: "https://portal.little-bird.de/images/article/full/434de
 ---
 
 
-## Zusätzliches Angebot
+## Gibt es neben dem Gruppenalltag weiterführende Projekte?
 
-Einmal wöchentlich besteht für Kinder ab vier Jahren die Möglichkeit an der musikalischen Früherziehung der Musikschule "Johann Adam Hiller" kostenpflichtig teilzunehmen.
+Um das Gemeinschaftsgefühl und das Selbstvertrauen der Vorschulkinder zu stärken, bieten wir
+Stadt-, Sport- und Theaterprojekte sowie Yoga an. Kinder ab vier Jahren haben einmal wöchentlich die Möglichkeit, gegen eine Gebühr an der musikalischen Früherziehung der Musikschule "Johann Adam Hiller" teilzunehmen. Diese findet wöchentlich in unserer Einrichtung statt.
 
 
 ## Pädagogische Grundlagen
@@ -24,11 +25,18 @@ Die Weiterentwicklung sprachlicher und motorischer Fähigkeiten sind ebenso ein 
 Im Alltag können sich die Kinder aktiv mit der Umwelt auseinandersetzen und die "Welt erkunden".
 
 
-## Mitarbeiter
 
-12 staatlich anerkannte Erzieherinnen arbeiten in Teilzeit in unserem Haus nach den Ideen von Maria Montessori.
 
-Berufsbegleitend erwarben alle Mitarbeiterinnen das Nationale Montessori Diplom. Einige Kolleginnen verfügen außerdem über die heilpädagogische Zusatzausbildung. 
+## Wie viele Mitarbeitende gibt es in der Einrichtung?
+
+In unserem Haus arbeiten zwölf staatlich anerkannte ErzieherInnen nach den Ideen Maria Montessoris. Alle Mitarbeiterinnen haben berufsbegleitend das Montessori-Diplom erworben. Einige
+von ihnen verfügen zudem über eine heilpädagogische Zusatzausbildung. Daher können wir eine
+integrative Betreuung von Kindern mit Beeinträchtigungen anbieten. So können wir gezielt auf die
+Bedürfnisse und Entwicklungsmöglichkeiten jedes Kindes eingehen und allen eine individuelle Unterstützung bieten.
+Unsere Einrichtung ist attraktiv für Studierende, Schüler und Auszubildende, die ein Praktikum
+absolvieren möchten. Sie haben bei uns die Möglichkeit, praktische Erfahrungen zu sammeln und
+ihr theoretisches Wissen in der Praxis anzuwenden. Wir bieten ihnen ein inspirierendes Umfeld,
+in dem sie von unseren erfahrenen Mitarbeiterinnen lernen können.
 
 
 ## Zusammenarbeit Schule und Hort
@@ -40,12 +48,18 @@ Im letzten Kindergartenjahr lernen die Kinder die Beratungslehrer/innen in unser
 Zudem erhalten die Eltern in einem Vorschulelternabend Tipps und Anregungen, um den Kindern den Übergang vom Kindergarten zur Schule zu erleichtern.
 
 
-## Elternarbeit
 
-Das Kinderhaus begleitet, unterstützt und ergänzt die Erziehung in der Familie und schafft den Kindern vielfältige Erlebnis- und Erfahrungsmöglichkeiten über den familiären Rahmen hinaus.
-
-Für eine positive Atmosphäre im Kinderhaus ist die Zusammenarbeit mit den Eltern auf partnerschaftlicher Basis unter gegenseitigem Vertrauen entscheidend.
-
-Ein Elternrat arbeitet als Bindeglied zwischen den Eltern und der Kinderhausleitung und dem Team.
-
-Der Förderverein unterstützt das Kinderhaus in organisatorischen und finanziellen Fragen.
+## Wie läuft die Zusammenarbeit zwischen der Einrichtung und den Eltern ab?
+Die Zusammenarbeit zwischen Träger und Eltern basiert auf verschiedenen Grundlagen wie dem
+Betreuungsvertrag, dem Leitbild und unserer pädagogischen Konzeption. Ein wichtiger Bestandteil
+dieser Zusammenarbeit ist der ständige Dialog zwischen Ihnen als Eltern und uns als pädagogisches Team. Wir halten Sie regelmäßig über Elternabende, Elternbriefe, Aushänge, unsere Homepage und den Austausch mit den Elternvertretern auf dem Laufenden. Zudem nehmen wir uns
+jedes Jahr viel Zeit für Entwicklungs- und Elterngespräche.
+Um eine gut funktionierende Partnerschaft zu erreichen, können Sie als Eltern ebenfalls einen
+wertvollen Beitrag leisten. Zögern Sie nicht, uns bei Fragen anzusprechen und klären Sie Unklarheiten zeitnah. Oft lassen sich viele Dinge bereits mit wenigen Worten klären. Zeigen Sie Interesse
+an unserer Arbeit und bleiben Sie auch in stressigen Situationen respektvoll und höflich. Wenn
+wir Sie einmal um Hilfe bitten, danken wir ihn Ihnen für Ihre Unterstützung.
+Es kann vorkommen, dass Fachkräfte und Eltern unterschiedliche Perspektiven haben. Auch wenn
+diese Ansichten konträr sein können, teilen wir ein gemeinsames Interesse: Das Wohl Ihres Kindes.
+Sollten Sie sich einmal unverstanden fühlen oder auf Hindernisse bei unserem pädagogischen
+Fachpersonal oder der Leitung des Hauses stoßen, können Sie sich jederzeit an den Elternrat wenden. Der Elternrat dient als Ansprechpartner und Vermittler, um gemeinsam Lösungen zu finden
+und das Wohl der Kinder zu gewährleisten.
