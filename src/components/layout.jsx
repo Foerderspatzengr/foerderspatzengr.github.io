@@ -1,8 +1,7 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
 import './global.css'
-
-
+import Fiddle from './Fiddle.jsx'
 const pageStyles = {
   color: "#232129",
   padding: 96,
@@ -103,6 +102,7 @@ const Layout = ({ pageTitle, slug, children }) => {
                 {children}
             </main>
         </div>
+
     )
 }
 

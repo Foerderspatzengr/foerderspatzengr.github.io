@@ -14,7 +14,7 @@ main .gatsby-image-wrapper {
     
 
 }
-#___gatsby {
+body {
     background-image: url(/entwurf.jpg);
 }
 main {
