@@ -88,6 +88,8 @@ const blogStyles = {
 
 const Layout = ({ pageTitle, slug, children }) => {
     return (
+      <>
+        <Fiddle/>
         <div style={pageStyles}>
             <nav>
                 <ul style={listStyles}>
@@ -102,7 +104,7 @@ const Layout = ({ pageTitle, slug, children }) => {
                 {children}
             </main>
         </div>
-
+      </>
     )
 }
 
