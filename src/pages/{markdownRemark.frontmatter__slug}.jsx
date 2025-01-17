@@ -3,9 +3,7 @@ import { graphql } from "gatsby"
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import Layout from '../components/layout'
 
-export default function BlogPostTemplate({
-                                             data// this prop will be injected by the GraphQL query below.
-                                         }) {
+export default function BlogPostTemplate( { data } ) {
     const { markdownRemark } = data // data.markdownRemark holds your post data
     let featuredImg = getImage(data.markdownRemark.frontmatter.featuredImage)
     const { frontmatter, html } = markdownRemark

@@ -1,6 +1,6 @@
 ---
     slug: "forderverein"
-    title: "F&ouml;rderverein"
+    title: "Förderverein"
 ---
 
 ## Wird die Einrichtung von einem Förderverein unterstützt?
