@@ -7,8 +7,7 @@ import {graphql} from "gatsby"
 const afterHoursPage = ({data}) => {
     const {gatsbyImageData} = data.file.childImageSharp;
     return (
-        <main className="after-hours">
-            <Layout pageTitle="Nachspielzeit">
+            <Layout pageTitle="Nachspielzeit" className="after-hours">
                 <GatsbyImage alt="" image={gatsbyImageData} imgStyle={{objectPosition: "0 33%"}}/>
                 <h2>Allgemeine Informationen, Teilnahmebedingungen</h2>
                 <p>„Nachspielzeit“ ist eine privat organisierte Veranstaltungsreihe des Elternrats mit freundlicher
@@ -52,7 +51,6 @@ const afterHoursPage = ({data}) => {
                     <li><a href="/20240206-nachspielzeit.ics">Termin als iCal</a></li>
                 </ul>
             </Layout>
-        </main>
     )
 }
 export const titlequery = graphql`

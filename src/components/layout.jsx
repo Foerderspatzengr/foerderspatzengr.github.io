@@ -86,10 +86,10 @@ const blogStyles = {
     },
 }
 
-const Layout = ({ pageTitle, slug, children }) => {
+const Layout = (class, {pageTitle, slug, children }) => {
     return (
         
-        <div style={pageStyles}>
+        <div className={class} style={pageStyles}>
           <Fiddle />
             <nav>
                 <ul style={listStyles}>

@@ -6,8 +6,8 @@ import { graphql } from "gatsby"
 
 const contactPage = (result) => {
     return (
-        <main className="contact">
-        <Layout pageTitle="Kontakt">
+        
+        <Layout className="contact" pageTitle="Kontakt">
             <GatsbyImage alt="" image={result.data.file.childImageSharp.gatsbyImageData}/>
             <div className="info" >
                 <div className="property">
@@ -37,7 +37,6 @@ const contactPage = (result) => {
                 </div>
             </div>
         </Layout>
-        </main>
     )
 }
 export const titlequery = graphql`
