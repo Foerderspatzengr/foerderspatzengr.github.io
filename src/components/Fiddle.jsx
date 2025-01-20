@@ -2,7 +2,7 @@ import React from 'react'
 import './fiddle.css'
 function Fiddle() {
   return (
-    <div>
+    <div >
         <div className="canopy">
         <div className="dark">
             <div className="k1"></div>
