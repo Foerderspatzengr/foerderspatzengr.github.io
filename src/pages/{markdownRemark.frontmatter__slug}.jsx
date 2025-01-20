@@ -2,7 +2,7 @@ import * as React from "react"
 import { graphql } from "gatsby"
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import Layout from '../components/layout'
-import Fiddle from '../components/fiddle'
+import Fiddle from '../components/Fiddle'
 
 export default function BlogPostTemplate( { data } ) {
     const { markdownRemark } = data // data.markdownRemark holds your post data

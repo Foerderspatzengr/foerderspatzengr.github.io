@@ -1,7 +1,7 @@
 import * as React from "react"
 import Layout from '../components/layout'
 import '../components/global.css'
-import Fiddle from "../components/fiddle";
+import Fiddle from "../components/Fiddle";
 const datenSchutz = () => {
     return (
         <>
