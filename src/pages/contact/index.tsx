@@ -1,7 +1,6 @@
 import * as React from "react"
 import { GatsbyImage } from 'gatsby-plugin-image'
 import Layout from '../../components/layout'
-import Fiddle from '../../components/Fiddle'
 import '../../components/global.css'
 import { graphql } from "gatsby" 
 
