@@ -1,48 +1,7 @@
 body {
   background-image: url(/entwurf2.jpg);
+  background-size: cover;
 }
-  .trunk {
-    position: absolute;
-    top: 16vw;
-    left: -1vw;
-    width: 8vw;
-    height: 30vw;
-    border: 1px solid black;
-    transform: skewx(2deg);
-    background: #ddd;
-  }
-  
-  .trunk div {
-    position: absolute;
-    border-top: 2px solid #333;
-    border-radius: 50%;
-  }
-  
-  .trunk div::before {
-    display: block;
-    margin: -3% 29%;
-    width: 33%;
-    height: 40%;
-    background: #333;
-    border: .2vw solid #ddd;
-    border-top: 0 none;
-    border-radius: 50%;
-    box-shadow: 0 .2vw .4vw #333;
-    content: "";
-  }
-  .trunk .k1 {
-    top: 11.2vw;
-    left: 2.5vw;
-    width: 3.8vw;
-    height: 3vw;
-  }
-  .trunk .k2 {
-    top: 20vw;
-    left: 2vw;
-    width: 2.1vw;
-    height: 1.4vw;
-  }
-  
   .canopy div div {
     position: absolute;
     z-index: -1;
