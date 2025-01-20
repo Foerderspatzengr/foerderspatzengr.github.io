@@ -2,7 +2,6 @@ import * as React from "react"
 import {GatsbyImage} from 'gatsby-plugin-image'
 import Layout from '../../components/layout'
 import '../../components/global.css'
-import Fiddle from '../../components/Fiddle'
 import {graphql} from "gatsby"
 
 const afterHoursPage = ({data}) => {

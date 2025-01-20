@@ -2,7 +2,6 @@ import * as React from "react"
 import type { HeadFC, PageProps } from "gatsby"
 import Layout from '../components/layout'
 import {graphql, Link} from "gatsby";
-import Fiddle from "../components/Fiddle";
 
 const IndexPage: React.FC<PageProps> = ({ data }) => {
   return (

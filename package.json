@@ -13,10 +13,7 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "typecheck": "tsc --noEmit",
-    "git add": "git add -A",
-    "git commit": "git commit",
-    "git push": "git push"
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "gatsby": "^5.12.4",
