@@ -31,6 +31,7 @@ main h1 {
     main.startseite h1,
     main.blog h1,
     main.betreuungsarten h1,
+    main.elternrat h1,
     main.tagesablauf h1,
     main.datenschutz h1 {
         position: unset;

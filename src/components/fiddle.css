@@ -45,6 +45,7 @@ body {
   
   .canopy div div {
     position: absolute;
+    z-index: -1;
   }
   
   .dark div {

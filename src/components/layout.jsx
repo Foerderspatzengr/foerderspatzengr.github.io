@@ -1,5 +1,6 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
+import Fiddle from './Fiddle'
 import './global.css'
 const pageStyles = {
   color: "#232129",
@@ -89,6 +90,7 @@ const Layout = ({ pageTitle, slug, children }) => {
     return (
         
         <div style={pageStyles}>
+          <Fiddle />
             <nav>
                 <ul style={listStyles}>
                     <li style={listItemStyles}><Link to="/">Startseite</Link></li>

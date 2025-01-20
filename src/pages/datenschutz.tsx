@@ -4,8 +4,6 @@ import '../components/global.css'
 import Fiddle from "../components/Fiddle";
 const datenSchutz = () => {
     return (
-        <>
-        <Fiddle />
         <main className="datenschutz">
         <Layout>
             <h1>Datenschutz&shy;erkl&auml;rung</h1><h2>1. Datenschutz auf einen Blick</h2><h3>Allgemeine Hinweise</h3>
@@ -193,7 +191,6 @@ const datenSchutz = () => {
                 Europ&auml;ischen Union oder eines Mitgliedstaats verarbeitet werden.</p>
         </Layout>
         </main>
-        </>
     )
 }
 
