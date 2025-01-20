@@ -14,9 +14,7 @@ main .gatsby-image-wrapper {
     
 
 }
-body {
-    background-image: url(/entwurf.jpg);
-}
+
 main {
     position: relative;
     
@@ -30,17 +28,17 @@ main h1 {
     color: #fff;
     text-shadow: 0 0 8px black;
 }
-main.startseite h1,
-main.blog h1,
-main.betreuungsarten h1,
-main.tagesablauf h1,
-main.datenschutz h1 {
-    position: unset;
-    inset: unset;
-    z-index: unset;
-    text-align: unset;
-    color: unset;
-    text-shadow: unset;
+    main.startseite h1,
+    main.blog h1,
+    main.betreuungsarten h1,
+    main.tagesablauf h1,
+    main.datenschutz h1 {
+        position: unset;
+        inset: unset;
+        z-index: unset;
+        text-align: unset;
+        color: unset;
+        text-shadow: unset;
 }
 
 main.startseite h2 a {

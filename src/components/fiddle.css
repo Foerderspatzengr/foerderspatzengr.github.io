@@ -1,4 +1,6 @@
-  
+body {
+  background-image: url(/entwurf.jpg);
+}
   .trunk {
     position: absolute;
     top: 16vw;

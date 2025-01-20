@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
 import './global.css'
-import Fiddle from './Fiddle.jsx'
+import Fiddle from './fiddle.jsx'
 const pageStyles = {
   color: "#232129",
   padding: 96,

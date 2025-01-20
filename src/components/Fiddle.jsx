@@ -3,14 +3,6 @@ import './fiddle.css'
 function Fiddle() {
   return (
     <div>
-      <div className="trunk">
-        <div className="k1"></div>
-        <div className="k2"></div>
-        <div className="k3"></div>
-        <div className="k4"></div>
-        <div className="k5"></div>
-        <div className="k6"></div>
-        </div>
         <div className="canopy">
         <div className="dark">
             <div className="k1"></div>
