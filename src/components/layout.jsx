@@ -5,6 +5,7 @@ import './global.css'
 
 const pageStyles = {
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
+  maxHeight: "100vh",
 }
 
 const navStyles = {
@@ -12,19 +13,21 @@ const navStyles = {
   paddingRight: "15%",
   display:"flex",
   justifyContent: "flex-end",
-    
+  
 }
-
-
-
 const mainStyles = {
 
-  paddingTop: "2%",
-  paddingLeft: "20%",
-  maxHeight: "90vh",
-  overflow: "auto",
+  maxHeight: "80vh",
 
 }
+const contentStyles = {
+  
+    paddingTop: "2%",
+    paddingLeft: "20%",
+    overflow: "auto",
+
+}
+
 const Layout = ({className, pageTitle, slug, children }) => {
     return (
         <>
@@ -38,8 +41,10 @@ const Layout = ({className, pageTitle, slug, children }) => {
             </nav>
             <main className={slug} style={mainStyles}>
             <h1>{pageTitle}</h1>
-            {className == "articles" ? <Link to="/">Back</Link> : null}
-                {children}
+            {className === "articles" ? <Link to="/">Back</Link> : null}
+              <div className="content" style={contentStyles}>
+                  {children}
+              </div>
             </main>
         </div>
         </>

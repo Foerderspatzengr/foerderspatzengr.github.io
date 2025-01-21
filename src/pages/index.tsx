@@ -3,7 +3,8 @@ import type { HeadFC, PageProps } from "gatsby"
 import Layout from '../components/layout'
 import {graphql, Link} from "gatsby";
 const articleStyle = {
-    marginBottom: '1rem'
+    marginBottom: '1rem',
+    marginLeft: '10rem',
 }
 
 

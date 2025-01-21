@@ -20,17 +20,18 @@ nav a {
     font-size: 24px;
     max-width: 560px;
     margin-right: 1rem;
+    padding: 0.5rem;
     text-decoration: none;
     background-color: #000;
-    border-radius: 45%;
+    border-radius: 200px;
     color: #fff;
 }
 
-a[aria-current="page"] {
-    background-color: #fffF00;
+nav a[aria-current="page"] {
+    background-color: #b6ff0f;
 }
 
-a:hover {
+nav a:hover {
     color: #F00;
     text-decoration: none;
 }
