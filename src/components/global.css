@@ -1,10 +1,11 @@
-main.projekte p img{
+main .projekte p img{
     width: 1546px;
     height: auto;
     max-width: 100%;
     max-height: 200px;
     object-fit: cover;
 }
+
 main .gatsby-image-wrapper {
     width: 1500px;
     height: auto;
@@ -12,87 +13,5 @@ main .gatsby-image-wrapper {
     max-height: 200px;
     object-fit: cover;
     
-
-}
-
-main {
-    position: relative;
-    
-}
-
-main h1 {
-    position: absolute;
-    inset: 6rem 1rem auto 1rem;
-    z-index: 1;
-    text-align: center;
-    color: #fff;
-    text-shadow: 0 0 8px black;
-}
-    div.startseite h1,
-    main.blog h1,
-    main.betreuungsarten h1,
-    main.elternrat h1,
-    main.tagesablauf h1,
-    main.fordervein
-    main.datenschutz h1 {
-        position: unset;
-        inset: unset;
-        z-index: unset;
-        text-align: unset;
-        color: unset;
-        text-shadow: unset;
-}
-
-div.startseite h2 a {
-    border: 2px solid darkgray;
-    padding: 8px;
-    border-radius: 8px;
-    text-decoration: none;
-    color: white;
-    background-color: darkslateblue;
-}
-main.startseite article {
-    padding: 1px;
-}
-main.contact .property {
-    display: flex;
-    padding-top: 1rem;
-}
-main.contact span {
-    display: block;
-}
-main.contact .key {
-    flex: 0 0 18rem;
-}
-main.contact .value {
-    flex: 1 1 auto;
-}
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-    main h1 {inset: 5rem 1rem auto 1rem; font-size: x-large;}
-    main.startseite h2 a {display: inline-flex}
-    main h2 {font-size: 18px;}
-    body {margin: -50px}
-}
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-    main.startseite h2 a {display: inline-flex}
-    main h1 {inset: 5rem 1rem auto 1rem;}
-    body {margin: -50px}
-}
-
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-    body {margin: -20px}
-}
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
-    body {margin: unset}
-}
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
 
 }

@@ -3,7 +3,7 @@ import Layout from '../components/layout'
 import '../components/global.css'
 const datenSchutz = () => {
     return (
-        <Layout class = "datenschutz">
+        <Layout className = "datenschutz">
             <h1>Datenschutz&shy;erkl&auml;rung</h1><h2>1. Datenschutz auf einen Blick</h2><h3>Allgemeine Hinweise</h3>
             <p>Die folgenden Hinweise geben einen einfachen &Uuml;berblick dar&uuml;ber,
                 was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten
