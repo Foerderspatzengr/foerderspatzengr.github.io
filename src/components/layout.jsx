@@ -26,9 +26,9 @@ const ItemStyles = {
 
 const Layout = ({className, pageTitle, slug, children }) => {
     return (
-        
+        <>
+        <Fiddle />
         <div className={className} style={pageStyles}>
-          <Fiddle />
             <nav style={navStyles}>
                 <Link style={ItemStyles} to="/">Startseite</Link>
                 <Link style={ItemStyles} to="/nachspielzeit">Nachspielzeit</Link>
@@ -40,6 +40,7 @@ const Layout = ({className, pageTitle, slug, children }) => {
                 {children}
             </main>
         </div>
+        </>
     )
 }
 
