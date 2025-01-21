@@ -7,36 +7,38 @@ const pageStyles = {
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
 }
 
-
 const navStyles = {
   
-    float: "right",
-    paddingRight: "15%",
-    paddingLeft: "100%",
+  paddingRight: "15%",
+  display:"flex",
+  justifyContent: "flex-end",
     
 }
 
-const ItemStyles = {
-  fontWeight: 300,
-  fontSize: 24,
-  maxWidth: 560,
-  marginBottom: 30,
-  paddingRight: "1rem",
-}
 
+
+const mainStyles = {
+
+  paddingTop: "2%",
+  paddingLeft: "20%",
+  maxHeight: "90vh",
+  overflow: "auto",
+
+}
 const Layout = ({className, pageTitle, slug, children }) => {
     return (
         <>
         <Fiddle />
         <div className={className} style={pageStyles}>
             <nav style={navStyles}>
-                <Link style={ItemStyles} to="/">Startseite</Link>
-                <Link style={ItemStyles} to="/nachspielzeit">Nachspielzeit</Link>
-                <Link style={ItemStyles} to="/contact">Kontakt</Link>
-                <Link style={ItemStyles} to="/datenschutz">Datenschutzerklärung</Link>
+                <Link to="/">Startseite</Link>
+                <Link to="/nachspielzeit">Nachspielzeit</Link>
+                <Link to="/contact">Kontakt</Link>
+                <Link to="/datenschutz">Datenschutzerklärung</Link>
             </nav>
-            <main className={slug}>
+            <main className={slug} style={mainStyles}>
             <h1>{pageTitle}</h1>
+            {className == "articles" ? <Link to="/">Back</Link> : null}
                 {children}
             </main>
         </div>

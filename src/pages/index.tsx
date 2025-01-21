@@ -2,6 +2,10 @@ import * as React from "react"
 import type { HeadFC, PageProps } from "gatsby"
 import Layout from '../components/layout'
 import {graphql, Link} from "gatsby";
+const articleStyle = {
+    marginBottom: '1rem'
+}
+
 
 const IndexPage: React.FC<PageProps> = ({ data }) => {
   return (
@@ -9,7 +13,7 @@ const IndexPage: React.FC<PageProps> = ({ data }) => {
         <p>Bitte haben Sie noch etwas Geduld. Wir arbeiten derzeit sowohl an der Inhalten als auch am Erscheinungsbild. Vielen Dank!</p>
         {
             data.allMarkdownRemark.nodes.map((node) => (
-                <article key={node.id}>
+                <article style={articleStyle} key={node.id}>
                     <h2>
                         <Link to={`/${node.frontmatter.slug}`}>
                             {node.frontmatter.title}
