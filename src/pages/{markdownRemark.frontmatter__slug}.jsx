@@ -2,10 +2,8 @@ import * as React from "react"
 import { graphql } from "gatsby"
 import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import Layout from '../components/layout'
-const articleStyle = { 
-    marginLeft: "10%",
-    marginTop: "3.1rem",
-}
+
+
 export default function BlogPostTemplate( { data } ) {
     const { markdownRemark } = data // data.markdownRemark holds your post data
     let featuredImg = getImage(data.markdownRemark.frontmatter.featuredImage)
@@ -13,7 +11,7 @@ export default function BlogPostTemplate( { data } ) {
     return (
       <Layout className="articles" pageTitle={frontmatter.title} slug={frontmatter.slug}>
           <GatsbyImage image={featuredImg} />
-          <div style={articleStyle} dangerouslySetInnerHTML={{ __html: html }} />
+          <div dangerouslySetInnerHTML={{ __html: html }} />
       </Layout>
     )
 }
