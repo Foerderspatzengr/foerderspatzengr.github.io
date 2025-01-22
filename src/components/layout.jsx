@@ -5,13 +5,15 @@ import './global.css'
 
 const pageStyles = {
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
-  height: "98vh",
+  height: "100vh",
+  filter: "unset",
+  
 }
 
 const navStyles = {
-  
+  paddingTop: "1%",
   paddingRight: "15%",
-  maxHeight: "15%",
+  maxHeight: "20%",
   display:"flex",
   justifyContent: "flex-end",
   
@@ -20,28 +22,28 @@ const navStyles = {
 const mainStyles = {
 
   height: "80%",
-
+  
 }
 
 const contentStyles = {
   
-    marginTop: "2%",
-    marginLeft: "20%",
-    overflow: "auto",
-    height: "100%",
-    backgroundColor: "#FFFFFF35",
-    borderStyle: "dotted",
-    borderColor: "#000000A8",
-    borderWidth: "1px",
-    borderRadius: "1%",
-   
-    paddingLeft: "2%",
-    paddingTop: "2%",
+  marginTop: "2%",
+  //marginLeft: "20%",
+  overflow: "auto",
+  height: "100%",
+  backgroundColor: "#FFFFFF35",
+  borderStyle: "dotted",
+  borderColor: "#000000A8",
+  borderWidth: "1px",
+  borderRadius: "1%",
+  paddingLeft: "25%",
+  paddingTop: "2%",
   
 }
 const titleStyle = {
   textAlign: "center",
 }
+
 const Layout = ({className, pageTitle, slug, children }) => {
     return (
         <>

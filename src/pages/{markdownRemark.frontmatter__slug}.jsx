@@ -10,7 +10,7 @@ export default function BlogPostTemplate( { data } ) {
     const { frontmatter, html } = markdownRemark
     return (
       <Layout className="articles" pageTitle={frontmatter.title} slug={frontmatter.slug}>
-          <GatsbyImage image={featuredImg} />
+          {featuredImg !== undefined ? <GatsbyImage image={featuredImg} /> : null} 
           <div dangerouslySetInnerHTML={{ __html: html }} />
       </Layout>
     )

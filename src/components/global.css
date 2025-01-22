@@ -1,3 +1,9 @@
+body {
+    background-image: url(/entwurf2.jpg);
+    background-size: cover;
+    margin:0px;
+  }
+
 main .projekte p img{
     width: 1546px;
     height: auto;
