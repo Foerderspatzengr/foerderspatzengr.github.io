@@ -1,7 +1,7 @@
 body {
     background-image: url(/entwurf2.jpg);
     background-size: cover;
-    margin:0px;
+    margin:0;
   }
 
 main .projekte p img{
@@ -40,4 +40,11 @@ nav a[aria-current="page"] {
 nav a:hover {
     color: #F00;
     text-decoration: none;
+}
+
+.articles h4 {
+    margin: 0;
+}
+.articles p {
+    margin-top: 0;
 }

@@ -1,6 +1,7 @@
 ---
 slug: "tagesablauf"
 title: "Tagesablauf"
+
 ---
 
 ## Wie sieht der Tagesablauf im Kinderhaus aus?

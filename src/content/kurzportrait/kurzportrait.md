@@ -3,6 +3,7 @@ slug: "kurzportrait"
 title: "Kurzportrait"
 featuredImage: "./kurzportrait.jpg"
 hero_image_credit_link: "https://portal.little-bird.de/images/article/full/42ac4c67-1f77-11eb-95e6-48df37920e6f.jpg"
+
 ---
 
 

@@ -6,11 +6,9 @@ import Layout from '../components/layout'
 
 export default function BlogPostTemplate( { data } ) {
     const { markdownRemark } = data // data.markdownRemark holds your post data
-    let featuredImg = getImage(data.markdownRemark.frontmatter.featuredImage)
     const { frontmatter, html } = markdownRemark
     return (
-      <Layout className="articles" pageTitle={frontmatter.title} slug={frontmatter.slug}>
-          {featuredImg !== undefined ? <GatsbyImage image={featuredImg} /> : null} 
+      <Layout className= "articles" pageTitle={frontmatter.title} slug={frontmatter.slug} nav={frontmatter.nav}>
           <div dangerouslySetInnerHTML={{ __html: html }} />
       </Layout>
     )
@@ -23,11 +21,7 @@ export const query = graphql`
       frontmatter {
         title
         slug
-        featuredImage {
-          childImageSharp {
-            gatsbyImageData 
-          }
-        }
+        nav
       }
     }
   }

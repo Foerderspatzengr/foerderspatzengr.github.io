@@ -1,6 +1,7 @@
 ---
 slug: "elternrat"
 title: "Elternrat"
+
 ---
 
 

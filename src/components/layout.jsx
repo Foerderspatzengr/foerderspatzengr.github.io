@@ -1,17 +1,20 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
 import Fiddle from './Fiddle'
+
 import './global.css'
 
 const pageStyles = {
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
+  lineHeight: "1.5",
+  
   height: "100vh",
   filter: "unset",
   
 }
 
 const navStyles = {
-  paddingTop: "1%",
+  paddingTop: "3%",
   paddingRight: "15%",
   maxHeight: "20%",
   display:"flex",
@@ -21,7 +24,8 @@ const navStyles = {
 
 const mainStyles = {
 
-  height: "80%",
+  height: "60%",
+  marginTop: "12%",
   
 }
 
@@ -30,27 +34,28 @@ const contentStyles = {
   marginTop: "2%",
   //marginLeft: "20%",
   overflow: "auto",
-  height: "100%",
+  height: "50%",
   backgroundColor: "#FFFFFF35",
   borderStyle: "dotted",
   borderColor: "#000000A8",
   borderWidth: "1px",
   borderRadius: "1%",
-  paddingLeft: "25%",
-  paddingTop: "2%",
-  
+  marginLeft: "25%",
+  marginRight: "2%",
+  padding: "1%",
 }
 const titleStyle = {
   textAlign: "center",
 }
 
-const Layout = ({className, pageTitle, slug, children }) => {
+
+const Layout = ({className, pageTitle, slug, children , nav}) => {
     return (
         <>
         <Fiddle />
         <div className={className} style={pageStyles}>
             <nav style={navStyles}>
-                {className === "articles" ? <Link to="/">Back</Link> : null}
+                {(className === "articles" && !nav) ? <Link to="/">Back</Link> : null}
                 <Link to="/">Startseite</Link>
                 <Link to="/nachspielzeit">Nachspielzeit</Link>
                 <Link to="/contact">Kontakt</Link>
@@ -67,5 +72,7 @@ const Layout = ({className, pageTitle, slug, children }) => {
         </>
     )
 }
+
+
 
 export default Layout

@@ -16,7 +16,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "gatsby": "^5.12.4",
+    "gatsby": "^5.14.1",
     "gatsby-plugin-image": "^3.12.3",
     "gatsby-plugin-sharp": "^5.12.3",
     "gatsby-source-filesystem": "^5.12.1",

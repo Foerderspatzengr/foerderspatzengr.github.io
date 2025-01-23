@@ -3,6 +3,7 @@ slug: "mariamontessori"
 title: "Maria Montessori (Ergänzung: Bild)"
 featuredImage: ""
 hero_image_credit_link: ""
+
 ---
 
 ## Wer war Maria Montessori?

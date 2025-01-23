@@ -1,6 +1,7 @@
 ---
     slug: "montessorimaterial"
     title: "Montessori Material"
+    
 ---
 
 ## Wie sieht das Montessori Material aus?
