@@ -8,12 +8,17 @@ const articleStyle = {
 }
 
 
+
+
 const IndexPage: React.FC<PageProps> = ({ data }) => {
   return (
     <Layout className="startseite" pageTitle="Montessori-Kinderhaus Spatzennest am Birkenwäldchen">
-        <p>Bitte haben Sie noch etwas Geduld. Wir arbeiten derzeit sowohl an der Inhalten als auch am Erscheinungsbild. Vielen Dank!</p>
         {
-            data.allMarkdownRemark.nodes.map((node) => (
+            data.allMarkdownRemark.nodes.map((node) => {
+              if (node.frontmatter?.nav === true) {
+                return null
+              }
+              return(
                 <article style={articleStyle} key={node.id}>
                     <h2>
                         <Link to={`/${node.frontmatter.slug}`}>
@@ -22,7 +27,8 @@ const IndexPage: React.FC<PageProps> = ({ data }) => {
                     </h2>
                     <p>{node.excerpt}</p>
                 </article>
-            ))
+            )}
+          )
         }
     </Layout>
   )
@@ -36,6 +42,7 @@ query {
       frontmatter {
         slug
         title
+        nav
       }
       id
     }
@@ -45,3 +52,5 @@ query {
 export const Head: HeadFC = () => <title>Montessori-Kinderhaus Spatzennest am Birkenwäldchen</title>
 
 export default IndexPage
+
+
