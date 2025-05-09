@@ -1,5 +1,5 @@
 node_modules/
-.cache/
 public
-.idea/
+.*
+!.gitignore
 src/gatsby-types.d.ts

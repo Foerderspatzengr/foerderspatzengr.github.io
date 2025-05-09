@@ -1,0 +1,222 @@
+
+  .canopy div div {
+    position: absolute;
+    z-index: -1;
+  }
+  
+  .dark div {
+    background: #418b00;
+  }
+  
+  .medium div {
+    background: #4ca306;
+  }
+  
+  .bright div {
+    background: #63bc14;
+  }
+  
+  .canopy .k1 {
+    animation: 5s 3s ease-in-out infinite alternate sway1;
+  }
+  
+  .canopy .k2 {
+    animation: 5s 2.5s ease-in-out infinite alternate sway2;
+  }
+  
+  .canopy .k3 {
+    animation: 5s 2s ease-in-out infinite alternate sway3;
+  }
+  
+  .canopy .k4, .canopy .bright .k3, .canopy .medium .k6 {
+    animation: 5s 1.5s ease-in-out infinite alternate sway4;
+  }
+  
+  .canopy .k5, .canopy .bright .k4, .canopy .bright .k6 {
+    animation: 5s 1s ease-in-out infinite alternate sway5;
+  }
+  
+  .canopy .k6 {
+    animation: 5s .5s ease-in-out infinite alternate sway6;
+  }
+  
+  .dark .k1 {
+    width: 12.6vw;
+    height: 18.2vw;
+    top: 0;
+    left: 0vw;
+    border-radius: 0 0 70% 28% / 0 0 34% 3%;
+  }
+  
+  .medium .k1 {
+    width: 14vw;
+    height: 12.9vw;
+    top: 0;
+    left: 0vw;
+    border-radius: 0 0 80% 20% / 0 0 80% 3%;
+  }
+  
+  .dark .k2 {
+    width: 11.4vw;
+    height: 13.7vw;
+    top: 0;
+    left: 11.5vw;
+    border-radius: 0 0 53% 44%;
+  }
+  
+  .medium .k2 {
+    width: 10.5vw;
+    height: 9.8vw;
+    top: 0;
+    left: 12.4vw;
+    border-radius: 0 0 64% 35% / 0 0 75% 22%;
+  }
+  
+  .dark .k3 {
+    width: 18.9vw;
+    height: 14vw;
+    top: 0;
+    left: 22.3vw;
+    border-radius: 0 0 51% 49%;
+  }
+  
+  .medium .k3 {
+    width: 21vw;
+    height: 15.3vw;
+    top: -5vw;
+    left: 22vw;
+    border-radius: 0 0 37% 55%;
+  }
+  
+  .bright .k3 {
+    width: 14vw;
+    height: 11.8vw;
+    top: -5vw;
+    left: 29vw;
+    border-radius: 0 0 49% 55%;
+  }
+  
+  .dark .k4 {
+    width: 20.8vw;
+    height: 16.3vw;
+    top: 0;
+    left: 38.9vw;
+    border-radius: 0 0 49% 48%;
+  }
+  
+  .medium .k4 {
+    width: 18vw;
+    height: 14.7vw;
+    top: 0;
+    left: 41.1vw;
+    border-radius: 0 0 52% 41%;
+  }
+  
+  .bright .k4 {
+    width: 14.4vw;
+    height: 11.5vw;
+    top: -2vw;
+    left: 41.3vw;
+    border-radius: 0 56% 65% 60%;
+  }
+  
+  .dark .k5 {
+    width: 14.4vw;
+    height: 13.6vw;
+    top: 0;
+    left: 58.5vw;
+    border-radius: 0 0 46% 51%;
+  }
+  
+  .medium .k5 {
+    width: 13.5vw;
+    height: 12vw;
+    top: 0;
+    left: 59vw;
+    border-radius: 0 0 52% 45%;
+  }
+  
+  .dark .k6 {
+    width: 17.7vw;
+    height: 20.2vw;
+    top: -4.9vw;
+    left: 69.5vw;
+    border-radius: 0 61% 36% 60%;
+  }
+  
+  .medium .k6 {
+    width: 14.6vw;
+    height: 15vw;
+    top: -1vw;
+    left: 71.6vw;
+    border-radius: 0% 24% 53% 73% / 0% 80% 47% 49%;
+  }
+  
+  .bright .k6 {
+    width: 12.4vw;
+    height: 10vw;
+    top: -2.1vw;
+    left: 70.2vw;
+    border-radius: 50% 77% 57% 80%;
+  }
+  
+  @keyframes sway1 {
+    from {
+      margin-top: 0;
+    }
+  
+    to {
+      margin-top: -.4vw;
+    }
+  }
+  
+  @keyframes sway2 {
+    from {
+      margin-top: 0;
+    }
+  
+    to {
+      margin-top: -.8vw;
+    }
+  }
+  
+  @keyframes sway3 {
+    from {
+      margin-top: 0;
+    }
+  
+    to {
+      margin-top: -1.2vw;
+    }
+  }
+  
+  @keyframes sway4 {
+    from {
+      margin-top: 0;
+    }
+  
+    to {
+      margin-top: -1.6vw;
+    }
+  }
+  
+  @keyframes sway5 {
+    from {
+      margin-top: 0;
+    }
+  
+    to {
+      margin-top: -2vw;
+    }
+  }
+  
+  @keyframes sway6 {
+    from {
+      margin-top: 0;
+    }
+  
+    to {
+      margin-top: -2.4vw;
+    }
+  }
+  

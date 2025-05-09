@@ -1,109 +1,78 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
+import Fiddle from './Fiddle'
+
 import './global.css'
 
-
 const pageStyles = {
-  color: "#232129",
-  padding: 96,
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
-}
-const headingStyles = {
-  marginTop: 0,
-  marginBottom: 64,
-  maxWidth: 320,
-}
-const headingAccentStyles = {
-  color: "#663399",
-}
-const paragraphStyles = {
-  marginBottom: 48,
-}
-const codeStyles = {
-  color: "#8A6534",
-  padding: 4,
-  backgroundColor: "#FFF4DB",
-  fontSize: "1.25rem",
-  borderRadius: 4,
-}
-const listStyles = {
-    display: "flex",
-    listStyle: "none",
-    paddingLeft: "0.5rem",
-}
-const doclistStyles = {
-  paddingLeft: 0,
-}
-const listItemStyles = {
-  fontWeight: 300,
-  fontSize: 24,
-  maxWidth: 560,
-  marginBottom: 30,
-    paddingRight: "1rem",
+  lineHeight: "1.5",
+  
+  height: "100vh",
+  filter: "unset",
+  
 }
 
-const linkStyle = {
-  color: "#8954A8",
-  fontWeight: "bold",
-  fontSize: 16,
-  verticalAlign: "5%",
+const navStyles = {
+  paddingTop: "3%",
+  paddingRight: "15%",
+  maxHeight: "20%",
+  display:"flex",
+  justifyContent: "flex-end",
+  
 }
 
-const docLinkStyle = {
-  ...linkStyle,
-  listStyleType: "none",
-  display: `inline-block`,
-  marginBottom: 24,
-  marginRight: 12,
+const mainStyles = {
+
+  height: "60%",
+  marginTop: "12%",
+  
 }
 
-const descriptionStyle = {
-  color: "#232129",
-  fontSize: 14,
-  marginTop: 10,
-  marginBottom: 0,
-  lineHeight: 1.25,
+const contentStyles = {
+  
+  marginTop: "2%",
+  //marginLeft: "20%",
+  overflow: "auto",
+  maxHeight: "65%",
+  backgroundColor: "#FFFFFF35",
+  borderStyle: "dotted",
+  borderColor: "#000000A8",
+  borderWidth: "1px",
+  borderRadius: "1%",
+  marginLeft: "25%",
+  marginRight: "2%",
+  padding: "1%",
+}
+const titleStyle = {
+  textAlign: "center",
 }
 
-const badgeStyle = {
-  color: "#fff",
-  backgroundColor: "#088413",
-  border: "1px solid #088413",
-  fontSize: 11,
-  fontWeight: "bold",
-  letterSpacing: 1,
-  borderRadius: 4,
-  padding: "4px 6px",
-  display: "inline-block",
-  position: "relative",
-  top: -2,
-  marginLeft: 10,
-  lineHeight: 1,
-}
 
-const blogStyles = {
-    kinderhaus: {
-
-    },
-}
-
-const Layout = ({ pageTitle, slug, children }) => {
+const Layout = ({className, pageTitle, slug, children , nav}) => {
     return (
-        <div style={pageStyles}>
-            <nav>
-                <ul style={listStyles}>
-                    <li style={listItemStyles}><Link to="/">Startseite</Link></li>
-                    <li style={listItemStyles}><Link to="/nachspielzeit">Nachspielzeit</Link></li>
-                    <li style={listItemStyles}><Link to="/contact">Kontakt</Link></li>
-                    <li style={listItemStyles}><Link to="/datenschutz">Datenschutzerklärung</Link></li>
-                </ul>
+        <>
+        <Fiddle />
+        <div className={className} style={pageStyles}>
+            <nav style={navStyles}>
+                {(className === "articles" && !nav) ? <Link to="/">Back</Link> : null}
+                <Link to="/">Startseite</Link>
+                <Link to="/nachspielzeit">Nachspielzeit</Link>
+                <Link to="/contact">Kontakt</Link>
+                <Link to="/datenschutz">Datenschutzerklärung</Link>
             </nav>
-            <main className={slug}>
-            <h1>{pageTitle}</h1>
-                {children}
+            <main className={slug} style={mainStyles}>
+            <h1 style={titleStyle}>{pageTitle}</h1>
+            
+              <div className="content" style={contentStyles}>
+                  {children}
+              </div>
             </main>
         </div>
+        </>
     )
 }
+
+
 
 export default Layout
