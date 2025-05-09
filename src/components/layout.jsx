@@ -34,7 +34,7 @@ const contentStyles = {
   //marginLeft: "20%",
   overflow: "auto",
   maxHeight: "65%",
-  backgroundColor: "#ccffaaaa",
+  backgroundColor: "#ccffaacc",
   border: "2px solid #360",
   borderRadius: "1em",
   margin: "0 2% 2% 28%",

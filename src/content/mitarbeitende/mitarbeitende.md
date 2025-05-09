@@ -4,12 +4,10 @@ title: Mitarbeitende
 ---
 # Wie viele Mitarbeitende gibt es in der Einrichtung?
 
-In unserem Haus arbeiten zwölf staatlich anerkannte ErzieherInnen nach den Ideen Maria Mon-
-tessoris. Alle Mitarbeiterinnen haben berufsbegleitend das Montessori-Diplom erworben. Einige
+In unserem Haus arbeiten zwölf staatlich anerkannte ErzieherInnen nach den Ideen Maria Montessoris. Alle Mitarbeiterinnen haben berufsbegleitend das Montessori-Diplom erworben. Einige
 von ihnen verfügen zudem über eine heilpädagogische Zusatzausbildung. Daher können wir eine
 integrative Betreuung von Kindern mit Beeinträchtigungen anbieten. So können wir gezielt auf die
-Bedürfnisse und Entwicklungsmöglichkeiten jedes Kindes eingehen und allen eine individuelle Un-
-terstützung bieten.
+Bedürfnisse und Entwicklungsmöglichkeiten jedes Kindes eingehen und allen eine individuelle Unterstützung bieten.
 
 Unsere Einrichtung ist attraktiv für Studierende, Schüler und Auszubildende, die ein Praktikum
 absolvieren möchten. Sie haben bei uns die Möglichkeit, praktische Erfahrungen zu sammeln und

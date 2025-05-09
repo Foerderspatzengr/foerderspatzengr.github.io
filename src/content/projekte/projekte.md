@@ -6,5 +6,4 @@ title: Projekte
 
 Um das Gemeinschaftsgefühl und das Selbstvertrauen der Vorschulkinder zu stärken, bieten wir
 Stadt-, Sport- und Theaterprojekte sowie Yoga an. Kinder ab vier Jahren haben einmal wöchent-
-lich die Möglichkeit, gegen eine Gebühr an der musikalischen Früherziehung der Musikschule "Jo-
-hann Adam Hiller" teilzunehmen. Diese findet wöchentlich in unserer Einrichtung statt.
+lich die Möglichkeit, gegen eine Gebühr an der musikalischen Früherziehung der Musikschule "Johann Adam Hiller" teilzunehmen. Diese findet wöchentlich in unserer Einrichtung statt.

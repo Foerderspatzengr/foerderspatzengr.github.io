@@ -16,25 +16,21 @@ Verbindung mit dem Sächsischen Bildungsplan. Wir handeln nach ihrem Leitspruch:
 selbst zu tun". Dabei steht das Kind mit seinen eigenen Bedürfnissen im Mittelpunkt unserer Arbeit.
 Wir würdigen das Kind in seiner Gesamtheit und schaffen eine Vorbereitete Umgebung, die es den
 ihnen ermöglicht, selbstständig aktiv zu sein. Durch die freie Wahl der Tätigkeiten kann das Kind
-seinen sensiblen Phasen folgen und nach seinem eigenen inneren Bauplan lernen. Dabei unter-
-stützen und fördern wir es, damit es seine Interessen, Bedürfnisse und Stärken entfalten kann.
+seinen sensiblen Phasen folgen und nach seinem eigenen inneren Bauplan lernen. Dabei unterstützen und fördern wir es, damit es seine Interessen, Bedürfnisse und Stärken entfalten kann.
 
 Wir verstehen uns als familienergänzende Bildungseinrichtung, in der die Herausbildung sozialer
 Kompetenzen und das selbstständige Handeln im Tagesablauf im Vordergrund stehen. In unseren
-altersgemischten Gruppen haben die Kinder die Möglichkeit, voneinander zu lernen und sich ge-
-genseitig zu unterstützen.
+altersgemischten Gruppen haben die Kinder die Möglichkeit, voneinander zu lernen und sich gegenseitig zu unterstützen.
 
 Maria Montessori betrachtet das Spiel der Kinder als „Arbeit“. Sie erkennt die tiefe Konzentration,
 das Streben nach Perfektion, das Glück des Miteinanders und das Gefühl der Erfüllung während
-dieser. Die Arbeit des Kindes ist genauso wichtig und ernst zu nehmen wie die Arbeit des Erwach-
-senen. Dabei kann der Erwachsene zum Verbündeten des Kindes werden, indem er einfühlsam
+dieser. Die Arbeit des Kindes ist genauso wichtig und ernst zu nehmen wie die Arbeit des Erwachsenen. Dabei kann der Erwachsene zum Verbündeten des Kindes werden, indem er einfühlsam
 und verlässlich an seiner Seite steht. Nach Maria Montessori muss er „passiv werden, damit das
 Kind aktiv werden kann. Er muss dem Kind die Freiheit geben, sich äußern zu können; denn es gibt
 kein größeres Hindernis für die Entfaltung der kindlichen Persönlichkeit als einen Erwachsenen,
 der mit seiner ganzen überlegenen Kraft gegen das Kind steht.“
 
-Unser Ziel ist es, den Kindern zu helfen, sich selbst zu entdecken, ihre Persönlichkeit und Unab-
-hängigkeit zu entwickeln und Verantwortung für sich und die Welt zu übernehmen.
+Unser Ziel ist es, den Kindern zu helfen, sich selbst zu entdecken, ihre Persönlichkeit und Unabhängigkeit zu entwickeln und Verantwortung für sich und die Welt zu übernehmen.
 
 Wir möchten den Kindern die elementaren Dinge, die die Welt im Innersten zusammenhalten, auf
 ihren Kern reduzieren und ihnen erlebbar machen. Unsere Bildung und Erziehung zielen darauf
@@ -62,17 +58,14 @@ welche Aktivitäten sie wählen möchten. Sie können lebenspraktische Übungen 
 mit Materialien aus dem sprachlichen, mathematischen und naturwissenschaftlichen Bereich
 auseinandersetzen oder ihre Wahrnehmung mit Sinnesmaterialien schärfen. Natürlich darf auch
 der musische Bereich mit allerhand kreativen Angeboten nicht fehlen. Die Kinder haben die Wahl,
-ob sie allein oder gemeinsam mit anderen arbeiten möchten. Während der freien Arbeitszeit be-
-reiten die Kinder auch ihre eigenen Obst- und Gemüsepausen vor. Der schöne Garten wird bei
+ob sie allein oder gemeinsam mit anderen arbeiten möchten. Während der freien Arbeitszeit bereiten die Kinder auch ihre eigenen Obst- und Gemüsepausen vor. Der schöne Garten wird bei
 jedem Wetter täglich genutzt und bietet Raum für zahlreiche Aktivitäten: Im Sandkasten spielen,
-auf der Laufradstrecke fahren, auf dem Klettergerüst klettern, schaukeln oder die Rutsche hinun-
-ter sausen. Alternativ unternehmen wir auch Spaziergänge in das nahegelegene Birkenwäldchen.
+auf der Laufradstrecke fahren, auf dem Klettergerüst klettern, schaukeln oder die Rutsche hinunter sausen. Alternativ unternehmen wir auch Spaziergänge in das nahegelegene Birkenwäldchen.
 
 Da Zeit an der frischen Luft hungrig macht, gibt es danach ein gemeinsames Mittagessen, im
 Anschluss gehen sie auf die Toilette bzw. werden gewickelt. Der Mittagsschlaf wird individuell an
 die Bedürfnisse angepasst. Zwischen 12.30 Uhr und 14.15 Uhr (Krippe 12.00 Uhr bis 14.00 Uhr)
-gibt es im Haus eine Ruhe- und Entspannungszeit. Am Nachmittag servieren wir eine abwechs-
-lungsreiche Vesper, um den Kindern Energie für den restlichen Tag zu geben.
+gibt es im Haus eine Ruhe- und Entspannungszeit. Am Nachmittag servieren wir eine abwechslungsreiche Vesper, um den Kindern Energie für den restlichen Tag zu geben.
 
 Den Abschluss des Tages gestalten wir entweder im Garten oder im Gruppenraum, abhängig vom
 Wetter. Ab 15.30 Uhr finden sich die Kinder im gruppenübergreifenden Spätdienst zusammen.
@@ -81,20 +74,16 @@ Unsere Einrichtung schließt um 16.30 Uhr.
 # Wer war Maria Montessori? `(Ergänzung: Bild)`
 
 Am 31. August 1870 wird Maria Montessori in Italien geboren. Nachdem sie 1896 als eine der ersten
-Ärztinnen Italiens promoviert hat, widmet sie sich wissenschaftlichen Studien über die Entwick-
-lung von benachteiligten Kindern und deren Förderung durch eigens entwickelte Lernmaterialien.
+Ärztinnen Italiens promoviert hat, widmet sie sich wissenschaftlichen Studien über die Entwicklung von benachteiligten Kindern und deren Förderung durch eigens entwickelte Lernmaterialien.
 
 Im Jahr 1907 übernimmt sie die Leitung des ersten Kinderhauses, genannt Casa dei Bambini, für
 Kinder im Alter von drei bis sechs Jahren. Dort bringt sie ihre Überlegungen zur Förderung der
-kindlichen Entwicklung in die tägliche Erziehungspraxis ein und beobachtet mit wachsender Fas-
-zination, wie sich eine anspruchsvoll gestaltete Umgebung positiv auf das Lernen der Kinder aus-
-wirkt. Von diesem Zeitpunkt an ist es ihr Ziel, Übungsmaterialien zu finden, die die ganzheitliche
+kindlichen Entwicklung in die tägliche Erziehungspraxis ein und beobachtet mit wachsender Faszination, wie sich eine anspruchsvoll gestaltete Umgebung positiv auf das Lernen der Kinder auswirkt. Von diesem Zeitpunkt an ist es ihr Ziel, Übungsmaterialien zu finden, die die ganzheitliche
 Entwicklung der Kinder stimulieren. Sie beschreibt die Rolle des Erwachsenen bei der Präsentation
 des Materials und der Förderung der kindlichen Entwicklung. Sie schreibt Bücher, die in viele
 Sprachen übersetzt werden und ihre entwicklungspsychologische und pädagogische Sichtweise
 auf das Kind sowie die darauf basierenden Materialien und Methoden weltweit bekannt machen.
-In ganz Europa und den USA werden Montessori-Kinderhäuser und Montessori-Schulen gegrün-
-det. Maria Montessori hält Einführungskurse und unternimmt zahlreiche Vortragsreisen.
+In ganz Europa und den USA werden Montessori-Kinderhäuser und Montessori-Schulen gegründet. Maria Montessori hält Einführungskurse und unternimmt zahlreiche Vortragsreisen.
 
 Im Jahr 1939 flieht sie vor dem Faschismus aus Italien und lebt und lehrt in Indien. Nach dem
 Ende des Zweiten Weltkriegs kehrt sie nach Europa zurück und reist bis zu ihrem Tod im Jahr
@@ -104,23 +93,18 @@ Bildung und Erziehung von Kindern auf der ganzen Welt.
 
 # Wie sieht das Montessori Material aus?
 
-Das Montessori-Material ist mehr als nur einfaches Spielzeug - es ist ein Entwicklungsmaterial,
-das dem Kind dabei hilft, seine intellektuellen, psychischen und motorischen Fähigkeiten zu ent-
-wickeln. Im Kinderhaus sind zu Beginn vor allem die Materialien für Übungen des täglichen Le-
-bens und die Sinnesschule von Bedeutung. Aber auch die Materialien für Mathematik, Sprache
+Das Montessori-Material ist mehr als nur einfaches Spielzeug es ist ein Entwicklungsmaterial,
+das dem Kind dabei hilft, seine intellektuellen, psychischen und motorischen Fähigkeiten zu entwickeln. Im Kinderhaus sind zu Beginn vor allem die Materialien für Übungen des täglichen Lebens und die Sinnesschule von Bedeutung. Aber auch die Materialien für Mathematik, Sprache
 und Naturwissenschaft kommen später auch zum Einsatz.
 
 Die Montessori-Materialien sind inhaltlich und in ihrer Schwierigkeit aufeinander aufbauend.
 Sie fordern das Kind zur Arbeit auf und ermöglichen ihm weitgehend selbstständiges Arbeiten.
-Dies wird durch die klare Isolation von Schwierigkeiten, eine ansprechende Ästhetik und das Merk-
-mal der Selbstkontrolle unterstützt. Die Ordnung, die in den Materialien liegt, findet sich auch in
+Dies wird durch die klare Isolation von Schwierigkeiten, eine ansprechende Ästhetik und das Merkmal der Selbstkontrolle unterstützt. Die Ordnung, die in den Materialien liegt, findet sich auch in
 der äußeren Ordnung wieder. Die vorbereitete Umgebung ist klar strukturiert und überschaubar
-für das Kind. Dies ermöglicht ihm, seine eigenen Entscheidungen entsprechend seinen individuel-
-len Entwicklungsbedürfnissen zu treffen.
+für das Kind. Dies ermöglicht ihm, seine eigenen Entscheidungen entsprechend seinen individuellen Entwicklungsbedürfnissen zu treffen.
 
 Zur Vorbereiteten Umgebung gehört auch, dass das Lernen und Zusammenleben der Kinder in
-einer Atmosphäre der Entspannung und Wertschätzung stattfindet. Doch letztendlich ist die Hal-
-tung und Kompetenz der ErzieherIn entscheidend. Sie muss, wie Maria Montessori es ausdrückt,
+einer Atmosphäre der Entspannung und Wertschätzung stattfindet. Doch letztendlich ist die Haltung und Kompetenz der ErzieherIn entscheidend. Sie muss, wie Maria Montessori es ausdrückt,
 wie eine Flamme sein, die Wärme ausstrahlt, aktiviert, belebt und einlädt. Sie muss achtsam sein
 in der Beobachtung, im Eilen und im Zurückziehen, beim Sprechen und Schweigen - in Ruhe,
 Geduld und Demut.
@@ -128,47 +112,36 @@ Geduld und Demut.
 # Müssen Eltern Kenntnisse zur Montessori-Pädagogik mitbringen?
 
 Wir begrüßen es sehr, wenn Eltern sich aktiv mit den Grundprinzipien der Montessori-Pädagogik
-auseinandersetzen und ihre Kinder vertrauensvoll auf ihrem individuellen Entwicklungsweg be-
-gleiten. Um Ihnen einen umfassenden Einblick in die Arbeit unserer Einrichtung zu ermöglichen,
+auseinandersetzen und ihre Kinder vertrauensvoll auf ihrem individuellen Entwicklungsweg begleiten. Um Ihnen einen umfassenden Einblick in die Arbeit unserer Einrichtung zu ermöglichen,
 bieten wir Elternabende, Gespräche oder Vorträge im Rahmen des Fördervereins an, bei denen Sie
 Eindrücke sammeln und Informationen erhalten können. Darüber hinaus besteht die Möglichkeit,
-bei uns eine Hospitation zu absolvieren. Eine Hospitation beinhaltet auch immer ein anschlie-
-ßendes Nachgespräch, in dem Sie Ihre Fragen stellen und weitere Informationen erhalten können.
+bei uns eine Hospitation zu absolvieren. Eine Hospitation beinhaltet auch immer ein anschließendes Nachgespräch, in dem Sie Ihre Fragen stellen und weitere Informationen erhalten können.
 
 # Müssen Sie als Eltern das Essen der Kinder vorbereiten?
 
 Bei uns lassen die Eltern die Brotbüchsen ihrer Kinder zu Hause. Wir legen großen Wert auf einen
-gemeinsamen und gesunden Start in den Tag und bieten daher neben saisonalem Obst und Ge-
-müse, Vollkornprodukte, Käse und Wurst, Eier, Milch, Wasser und Tee an. Gemeinsam mit den
+gemeinsamen und gesunden Start in den Tag und bieten daher neben saisonalem Obst und Gemüse, Vollkornprodukte, Käse und Wurst, Eier, Milch, Wasser und Tee an. Gemeinsam mit den
 Kindern bereiten wir den Frühstückstisch vor, wobei sie je nach Alter und Fähigkeiten verschiedene
-Aufgaben übernehmen. Vom Schneiden der Äpfel über das Schälen der Möhren bis hin zum De-
-cken des Tisches und dem Abwasch sind die Kinder aktiv eingebunden.
+Aufgaben übernehmen. Vom Schneiden der Äpfel über das Schälen der Möhren bis hin zum Decken des Tisches und dem Abwasch sind die Kinder aktiv eingebunden.
 
 Sollte beim Frühstück einmal etwas übrigbleiben, bieten wir es als Vesper an und versuchen damit
-den Kindern auch Nachhaltigkeit näherzubringen. Wir legen dabei großen Wert auf eine ab-
-wechslungsreiche und gesunde Ernährung. Auch beim Mittagstisch sind die Kinder aktiv dabei,
-sogar die Krippenkinder helfen, wo sie können. Jedes Kind kann sich sein gewünschtes Essen selbst-
-ständig auf den Teller füllen. Unser Geschirr besteht aus formschönem Porzellan und Gläsern.
+den Kindern auch Nachhaltigkeit näherzubringen. Wir legen dabei großen Wert auf eine abwechslungsreiche und gesunde Ernährung. Auch beim Mittagstisch sind die Kinder aktiv dabei,
+sogar die Krippenkinder helfen, wo sie können. Jedes Kind kann sich sein gewünschtes Essen selbstständig auf den Teller füllen. Unser Geschirr besteht aus formschönem Porzellan und Gläsern.
 Auf dem Tisch stehen Schüsseln und Kannen zum Nachfüllen. Die pädagogischen Fachkräfte
-halten sich diskret im Hintergrund, sind jedoch jederzeit bereit, bei Bedarf zu helfen. Unser Mit-
-tagessen wird von RWS Catering angeboten. Hier ist der Speiseplan `(als PDF zum Downloaden)`
+halten sich diskret im Hintergrund, sind jedoch jederzeit bereit, bei Bedarf zu helfen. Unser Mittagessen wird von RWS Catering angeboten. Hier ist der Speiseplan `(als PDF zum Downloaden)`
 einsehbar.
 
 # Gibt es neben dem Gruppenalltag weiterführende Projekte?
 
 Um das Gemeinschaftsgefühl und das Selbstvertrauen der Vorschulkinder zu stärken, bieten wir
-Stadt-, Sport- und Theaterprojekte sowie Yoga an. Kinder ab vier Jahren haben einmal wöchent-
-lich die Möglichkeit, gegen eine Gebühr an der musikalischen Früherziehung der Musikschule "Jo-
-hann Adam Hiller" teilzunehmen. Diese findet wöchentlich in unserer Einrichtung statt.
+Stadt-, Sport- und Theaterprojekte sowie Yoga an. Kinder ab vier Jahren haben einmal wöchentlich die Möglichkeit, gegen eine Gebühr an der musikalischen Früherziehung der Musikschule "Johann Adam Hiller" teilzunehmen. Diese findet wöchentlich in unserer Einrichtung statt.
 
 # Wie viele Mitarbeitende gibt es in der Einrichtung?
 
-In unserem Haus arbeiten zwölf staatlich anerkannte ErzieherInnen nach den Ideen Maria Mon-
-tessoris. Alle Mitarbeiterinnen haben berufsbegleitend das Montessori-Diplom erworben. Einige
+In unserem Haus arbeiten zwölf staatlich anerkannte ErzieherInnen nach den Ideen Maria Montessoris. Alle Mitarbeiterinnen haben berufsbegleitend das Montessori-Diplom erworben. Einige
 von ihnen verfügen zudem über eine heilpädagogische Zusatzausbildung. Daher können wir eine
 integrative Betreuung von Kindern mit Beeinträchtigungen anbieten. So können wir gezielt auf die
-Bedürfnisse und Entwicklungsmöglichkeiten jedes Kindes eingehen und allen eine individuelle Un-
-terstützung bieten.
+Bedürfnisse und Entwicklungsmöglichkeiten jedes Kindes eingehen und allen eine individuelle Unterstützung bieten.
 
 Unsere Einrichtung ist attraktiv für Studierende, Schüler und Auszubildende, die ein Praktikum
 absolvieren möchten. Sie haben bei uns die Möglichkeit, praktische Erfahrungen zu sammeln und
@@ -179,22 +152,18 @@ in dem sie von unseren erfahrenen Mitarbeiterinnen lernen können.
 
 Die Zusammenarbeit zwischen Träger und Eltern basiert auf verschiedenen Grundlagen wie dem
 Betreuungsvertrag, dem Leitbild und unserer pädagogischen Konzeption. Ein wichtiger Bestandteil
-dieser Zusammenarbeit ist der ständige Dialog zwischen Ihnen als Eltern und uns als pädagogi-
-sches Team. Wir halten Sie regelmäßig über Elternabende, Elternbriefe, Aushänge, unsere Home-
-page und den Austausch mit den Elternvertretern auf dem Laufenden. Zudem nehmen wir uns
+dieser Zusammenarbeit ist der ständige Dialog zwischen Ihnen als Eltern und uns als pädagogisches Team. Wir halten Sie regelmäßig über Elternabende, Elternbriefe, Aushänge, unsere Homepage und den Austausch mit den Elternvertretern auf dem Laufenden. Zudem nehmen wir uns
 jedes Jahr viel Zeit für Entwicklungs- und Elterngespräche.
 
 Um eine gut funktionierende Partnerschaft zu erreichen, können Sie als Eltern ebenfalls einen
-wertvollen Beitrag leisten. Zögern Sie nicht, uns bei Fragen anzusprechen und klären Sie Unklar-
-heiten zeitnah. Oft lassen sich viele Dinge bereits mit wenigen Worten klären. Zeigen Sie Interesse
+wertvollen Beitrag leisten. Zögern Sie nicht, uns bei Fragen anzusprechen und klären Sie Unklarheiten zeitnah. Oft lassen sich viele Dinge bereits mit wenigen Worten klären. Zeigen Sie Interesse
 an unserer Arbeit und bleiben Sie auch in stressigen Situationen respektvoll und höflich. Wenn
 wir Sie einmal um Hilfe bitten, danken wir ihn Ihnen für Ihre Unterstützung.
 
 Es kann vorkommen, dass Fachkräfte und Eltern unterschiedliche Perspektiven haben. Auch wenn
 diese Ansichten konträr sein können, teilen wir ein gemeinsames Interesse: Das Wohl Ihres Kindes.
 Sollten Sie sich einmal unverstanden fühlen oder auf Hindernisse bei unserem pädagogischen
-Fachpersonal oder der Leitung des Hauses stoßen, können Sie sich jederzeit an den Elternrat wen-
-den. Der Elternrat dient als Ansprechpartner und Vermittler, um gemeinsam Lösungen zu finden
+Fachpersonal oder der Leitung des Hauses stoßen, können Sie sich jederzeit an den Elternrat wenden. Der Elternrat dient als Ansprechpartner und Vermittler, um gemeinsam Lösungen zu finden
 und das Wohl der Kinder zu gewährleisten.
 
 # Wie gestaltet sich die Zusammenarbeit zwischen dem Kinderhaus und der Schule?
@@ -208,8 +177,7 @@ haben, ihre Kinder bestmöglich auf diesen wichtigen Schritt vorzubereiten.
 # Welche Aufgaben hat der Elternrat?
 
 Der Elternrat hat die Aufgabe, die Interessen der Eltern und Kinder zu vertreten und allen Eltern
-Gelegenheit zu geben, sich zu informieren und auszutauschen. Ein weiteres Ziel ist es, das Ver-
-trauensverhältnis zwischen Eltern und der Kita, dem Personal und dem Träger zu vertiefen. Der
+Gelegenheit zu geben, sich zu informieren und auszutauschen. Ein weiteres Ziel ist es, das Vertrauensverhältnis zwischen Eltern und der Kita, dem Personal und dem Träger zu vertiefen. Der
 Elternrat sammelt Ideen, Anregungen, Wünsche und Probleme aller Eltern, berät diese, bearbeitet
 sie und leitet sie gegebenenfalls weiter. Zudem organisiert der Elternrat Veranstaltungen wie zum
 Beispiel das Sommerfest.
@@ -220,8 +188,7 @@ oder per Mail an den Elternrat wenden.
 
 # Wird die Einrichtung von einem Förderverein unterstützt?
 
-Der Förderverein unserer Kindertagesstätte wurde von engagierten Eltern gegründet und unter-
-stützt unsere Arbeit in vielfältiger Form, insbesondere finanziell. Daher haben wir die Möglichkeit
+Der Förderverein unserer Kindertagesstätte wurde von engagierten Eltern gegründet und unterstützt unsere Arbeit in vielfältiger Form, insbesondere finanziell. Daher haben wir die Möglichkeit
 geschaffen, zusätzliche finanzielle Mittel für spezielle Projekte zu beschaffen, die ausschließlich
 den Kindern und der pädagogischen Arbeit unserer Einrichtung zugutekommen.
 
@@ -230,18 +197,14 @@ unserer Kindertagesstätte betreut werden, sowie aus externen Fördermitgliedern
 aus Überzeugung unterstützen.
 
 Unser Förderverein engagiert sich mit großer Leidenschaft für die Belange des Kinderhauses. Wenn
-Sie das Kinderhaus durch Ihre Mitgliedschaft unterstützen möchten, können Sie einfach den Mit-
-gliedsantrag auf unserer Webseite `(als PDF zum Downloaden)` ausfüllen.
+Sie das Kinderhaus durch Ihre Mitgliedschaft unterstützen möchten, können Sie einfach den Mitgliedsantrag auf unserer Webseite `(als PDF zum Downloaden)` ausfüllen.
 
 Über Ihre finanzielle Unterstützung würden wir uns sehr freuen. Jeder Beitrag ist willkommen und
 kommt direkt unseren Kindern zugute. Der Mitgliedsbeitrag wird jährlich festgelegt und beträgt
-im Jahre 2024 20,00 Euro. Hier ist die Satzung des Fördervereins einsehbar. `(als PDF zum Down-
-loaden)`
+im Jahre 2024 20,00 Euro. Hier ist die Satzung des Fördervereins einsehbar. `(als PDF zum Downloaden)`
 
-Der Förderverein hat bereits verschiedene Projekte umgesetzt und weitere sind geplant. Dazu ge-
-hören unter anderem Frühjahrs- und Herbstputzaktionen, ein Sommerfest sowie die Bereitstellung
-von (Bastel-)materialien für den pädagogischen Alltag und neuen (Holz-)Spielgeräten im Außen-
-bereich, wie zum Beispiel einer Nestschaukel oder die Matschstrecke. Zusätzlich organisieren wir
+Der Förderverein hat bereits verschiedene Projekte umgesetzt und weitere sind geplant. Dazu gehören unter anderem Frühjahrs- und Herbstputzaktionen, ein Sommerfest sowie die Bereitstellung
+von (Bastel-)materialien für den pädagogischen Alltag und neuen (Holz-)Spielgeräten im Außenbereich, wie zum Beispiel einer Nestschaukel oder die Matschstrecke. Zusätzlich organisieren wir
 die Veranstaltungsreihe "Nachspielzeit", bei der die Kinder in Begleitung ihrer Eltern an speziellen
 Events teilnehmen können. `(alle drei Plakate als Download hinzufügen)`
 

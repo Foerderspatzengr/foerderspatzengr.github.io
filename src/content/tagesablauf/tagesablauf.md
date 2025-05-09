@@ -4,9 +4,11 @@ title: "Tagesablauf"
 
 ---
 
+`neue Version hat Beginn 7:00 Uhr statt 6:30 (von Steffi per E-Mail am 2025-05-13)`
+
 ## Wie sieht der Tagesablauf im Kinderhaus aus?
 
-(siehe Little Bird Sonnenskizze)
+`(siehe Little Bird Sonnenskizze)`
 
 Eine angenehme und freundliche Atmosphäre für die Kinder zu schaffen, steht im Mittelpunkt des
 Kinderhausalltags. Bereits ab 7.00 Uhr bieten wir einen gruppenübergreifenden Frühdienst an, um
