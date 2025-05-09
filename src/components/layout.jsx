@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { Link } from 'gatsby'
+import {graphql, Link} from 'gatsby'
 import Fiddle from './Fiddle'
 
 import './global.css'
@@ -8,7 +8,6 @@ const pageStyles = {
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
   lineHeight: "1.5",
   
-  height: "100vh",
   filter: "unset",
   
 }
@@ -35,13 +34,10 @@ const contentStyles = {
   //marginLeft: "20%",
   overflow: "auto",
   maxHeight: "65%",
-  backgroundColor: "#FFFFFF35",
-  borderStyle: "dotted",
-  borderColor: "#000000A8",
-  borderWidth: "1px",
-  borderRadius: "1%",
-  marginLeft: "25%",
-  marginRight: "2%",
+  backgroundColor: "#ccffaaaa",
+  border: "2px solid #360",
+  borderRadius: "1em",
+  margin: "0 2% 2% 28%",
   padding: "1%",
 }
 const titleStyle = {
@@ -49,7 +45,7 @@ const titleStyle = {
 }
 
 
-const Layout = ({className, pageTitle, slug, children , nav}) => {
+const Layout = ({className, pageTitle, slug, children , nav, data}) => {
     return (
         <>
         <Fiddle />
@@ -57,9 +53,18 @@ const Layout = ({className, pageTitle, slug, children , nav}) => {
             <nav style={navStyles}>
                 {(className === "articles" && !nav) ? <Link to="/">Back</Link> : null}
                 <Link to="/">Startseite</Link>
-                <Link to="/nachspielzeit">Nachspielzeit</Link>
-                <Link to="/contact">Kontakt</Link>
                 <Link to="/datenschutz">Datenschutzerklärung</Link>
+                {
+                    data.allMarkdownRemark.nodes.map((node) => {
+                        if (node.frontmatter?.nav === true) {
+                            return(
+                                <Link to={`/${node.frontmatter.slug}`}>
+                                    {node.frontmatter.title}
+                                </Link>
+                            )}
+                        }
+                    )
+                }
             </nav>
             <main className={slug} style={mainStyles}>
             <h1 style={titleStyle}>{pageTitle}</h1>
@@ -72,7 +77,5 @@ const Layout = ({className, pageTitle, slug, children , nav}) => {
         </>
     )
 }
-
-
 
 export default Layout

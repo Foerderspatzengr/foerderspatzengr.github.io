@@ -1,9 +1,10 @@
 import * as React from "react"
 import Layout from '../components/layout'
 import '../components/global.css'
-const datenSchutz = () => {
+import {graphql, PageProps} from "gatsby";
+const datenSchutz: React.FC<PageProps> = ({data}) => {
     return (
-        <Layout className = "datenschutz" pageTitle = "Datenschutzerklärung">
+        <Layout data={data} className = "datenschutz" pageTitle = "Datenschutzerklärung">
             <h2>1. Datenschutz auf einen Blick</h2><h3>Allgemeine Hinweise</h3>
             <p>Die folgenden Hinweise geben einen einfachen &Uuml;berblick dar&uuml;ber,
                 was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten
@@ -190,6 +191,20 @@ const datenSchutz = () => {
         </Layout>
     )
 }
+export const query = graphql`
+query {
+  allMarkdownRemark {
+    nodes {
+      frontmatter {
+        slug
+        title
+        nav
+      }
+      id
+    }
+  }
+}
+`
 
 export const Head = () => <title>Datenschutzerklärung</title>
 export default datenSchutz

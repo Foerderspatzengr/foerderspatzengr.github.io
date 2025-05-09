@@ -12,7 +12,7 @@ const articleStyle = {
 
 const IndexPage: React.FC<PageProps> = ({ data }) => {
   return (
-    <Layout className="startseite" pageTitle="Montessori-Kinderhaus Spatzennest am Birkenwäldchen">
+    <Layout data={data} className="startseite" pageTitle="Montessori-Kinderhaus Spatzennest am Birkenwäldchen">
         {
             data.allMarkdownRemark.nodes.map((node) => {
               if (node.frontmatter?.nav === true) {

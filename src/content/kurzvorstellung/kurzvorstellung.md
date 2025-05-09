@@ -1,6 +1,7 @@
 ---
 slug: kurzvorstellung
 title: Kurzvorstellung
+nav: true
 ---
 # Kurzvorstellung Kinderhaus
 
