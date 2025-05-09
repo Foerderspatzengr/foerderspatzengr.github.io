@@ -10,6 +10,6 @@ integrative Betreuung von Kindern mit Beeinträchtigungen anbieten. So können w
 Bedürfnisse und Entwicklungsmöglichkeiten jedes Kindes eingehen und allen eine individuelle Unterstützung bieten.
 
 Unsere Einrichtung ist attraktiv für Studierende, Schüler und Auszubildende, die ein Praktikum
-absolvieren möchten. Sie haben bei uns die Möglichkeit, praktische Erfahrungen zu sammeln und
+absolvieren möchten, aber auch für Teilnehmende an Freiwilligendiensten wie FSJ. Sie haben bei uns die Möglichkeit, praktische Erfahrungen zu sammeln und
 ihr theoretisches Wissen in der Praxis anzuwenden. Wir bieten ihnen ein inspirierendes Umfeld,
 in dem sie von unseren erfahrenen Mitarbeiterinnen lernen können.
