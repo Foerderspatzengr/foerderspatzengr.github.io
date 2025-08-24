@@ -1,6 +1,6 @@
 import * as React from "react"
 import {useEffect, useState} from "react"
-import Layout from '../components/layout'
+import Layout from '../components/layout.jsx'
 import '../components/global.css'
 import {AudioPlayerAndDownload} from "../components/audio-player-and-download";
 import {graphql} from "gatsby";
