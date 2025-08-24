@@ -12,9 +12,9 @@ const articleStyle = {
 
 const IndexPage: React.FC<PageProps> = ({ data }) => {
   return (
-    <Layout data={data} className="startseite" pageTitle="Montessori-Kinderhaus Spatzennest am Birkenwäldchen">
+    <Layout nav={data.nav} className="startseite" pageTitle="Montessori-Kinderhaus Spatzennest am Birkenwäldchen">
         {
-            data.allMarkdownRemark.nodes.map((node) => {
+            data.nav.nodes.map((node) => {
               if (node.frontmatter?.nav === true) {
                 return null
               }
@@ -37,14 +37,15 @@ const IndexPage: React.FC<PageProps> = ({ data }) => {
 
 export const query = graphql`
 query {
-  allMarkdownRemark {
+  nav: allMarkdownRemark(filter: {frontmatter: {nav: {eq: true}}}) {
     nodes {
       frontmatter {
-        slug
         title
-        nav
+        slug
       }
-      id
+      headings {
+        value
+      }
     }
   }
 }

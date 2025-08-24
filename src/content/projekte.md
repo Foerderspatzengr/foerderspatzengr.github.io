@@ -1,4 +1,6 @@
 ---
+tour-position: 8
+parent: kurzvorstellung
 slug: projekte
 title: Projekte
 ---

@@ -1,4 +1,6 @@
 ---
+tour-position: 4
+parent: kurzvorstellung
 slug: eltern
 title: Eltern
 ---

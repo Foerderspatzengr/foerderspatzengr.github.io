@@ -1,4 +1,6 @@
 ---
+tour-position: 5
+parent: kurzvorstellung
 slug: garten
 title: Garten
 ---

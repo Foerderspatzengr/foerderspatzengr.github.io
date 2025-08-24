@@ -1,12 +1,12 @@
 ---
 title: 'Nachspielzeit'
+parent: elternrat
 slug: 'nachspielzeit'
-nav: true
 ---
 
 ## Allgemeine Informationen, Teilnahmebedingungen
 
-„Nachspielzeit“ ist eine privat organisierte Veranstaltungsreihe des Elternrats mit freundlicher Unterstützung durch den Förderverein.  
+„Nachspielzeit“ ist eine privat organisierte Veranstaltungsreihe des Elternrats mit freundlicher Unterstützung durch den [Förderverein](/foerderverein).  
 Dadurch ist eine Betreuung durch das Kinderhaus ausgeschlossen und Kinder können nur an der Veranstaltung teilnehmen, wenn sie in Begleitung eines <abbr title="schließt auch andere abholberechtigte Personen ein">Elternteils</abbr> sind und von diesem vorher abgeholt und bei den Erzieher:innen abgemeldet wurden. Im Falle, dass die Eltern die Abholung nicht rechtzeitig vor Beginn der Veranstaltung realisieren können, ist es möglich, einem Elternteil eines anderen teilnehmenden Kitakindes eine schriftliche Abholerlaubnis zu erteilen.  
 
 Das Kinderhaus schließt auch an einem solchen Tag regulär um 16:30 Uhr. Daher ist nach Ende der  Veranstaltung der Aufenthalt in der Kita nicht mehr gestattet und das Gebäude ist auf direktem Wege zu verlassen, damit niemand versehentlich eingeschlossen wird.  

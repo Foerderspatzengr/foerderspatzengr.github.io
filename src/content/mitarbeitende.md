@@ -1,4 +1,6 @@
 ---
+tour-position: 7
+parent: kurzvorstellung
 slug: mitarbeitende
 title: Mitarbeitende
 ---

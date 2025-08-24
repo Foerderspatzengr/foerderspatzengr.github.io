@@ -1,6 +1,8 @@
 ---
+nav: true
+tour-position: 9
 slug: "mariamontessori"
-title: "Maria Montessori"
+title: "Montessori"
 featuredImage: ""
 hero_image_credit_link: ""
 

@@ -1,4 +1,6 @@
 ---
+tour-position: 6
+parent: kurzvorstellung
 slug: essen
 title: Essen
 ---

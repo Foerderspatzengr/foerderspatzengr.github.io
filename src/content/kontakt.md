@@ -1,5 +1,5 @@
 ---
-slug: "contact"
+slug: "kontakt"
 title: "Kontakt"
 nav: true
 

@@ -1,4 +1,6 @@
 ---
+tour-position: 10
+parent: mariamontessori
 slug: vorkenntnisse
 title: Vorkenntnisse
 ---

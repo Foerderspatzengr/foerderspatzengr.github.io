@@ -1,4 +1,6 @@
 ---
+tour-position: 11
+parent: mariamontessori
 slug: "montessorimaterial"
 title: "Montessori Material"
 

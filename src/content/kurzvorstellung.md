@@ -1,6 +1,7 @@
 ---
+tour-position: 1
 slug: kurzvorstellung
-title: Kurzvorstellung
+title: Kita
 nav: true
 ---
 

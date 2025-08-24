@@ -1,4 +1,6 @@
 ---
+tour-position: 12
+nav: true
 slug: "elternrat"
 title: "Elternrat"
 

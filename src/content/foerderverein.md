@@ -1,4 +1,6 @@
 ---
+tour-position: 13
+nav: true
 slug: "foerderverein"
 title: "Förderverein"
 ---

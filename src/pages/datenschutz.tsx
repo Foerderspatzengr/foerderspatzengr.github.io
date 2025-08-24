@@ -5,7 +5,7 @@ import {graphql, PageProps} from "gatsby";
 
 const datenSchutz: React.FC<PageProps> = ({data}) => {
     return (
-        <Layout data={data} className="datenschutz" pageTitle="Datenschutzerklärung">
+        <Layout nav={data.nav} className="datenschutz" pageTitle="Datenschutzerklärung">
             <h2>1. Datenschutz auf einen Blick</h2><h3>Allgemeine Hinweise</h3>
             <p>Die folgenden Hinweise geben einen einfachen &Uuml;berblick dar&uuml;ber,
                 was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten
@@ -190,14 +190,15 @@ const datenSchutz: React.FC<PageProps> = ({data}) => {
 }
 export const query = graphql`
 query {
-  allMarkdownRemark {
+  nav: allMarkdownRemark(filter: {frontmatter: {nav: {eq: true}}}) {
     nodes {
       frontmatter {
-        slug
         title
-        nav
+        slug
       }
-      id
+      headings {
+        value
+      }
     }
   }
 }

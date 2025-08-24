@@ -1,4 +1,6 @@
 ---
+tour-position: 2
+parent: kurzvorstellung
 slug: "tagesablauf"
 title: "Tagesablauf"
 

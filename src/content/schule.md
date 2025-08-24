@@ -1,4 +1,6 @@
 ---
+tour-position: 3
+parent: kurzvorstellung
 slug: schule
 title: Schule
 ---
