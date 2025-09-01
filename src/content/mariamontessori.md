@@ -8,7 +8,8 @@ hero_image_credit_link: ""
 
 ---
 
-## Wer war Maria Montessori? `(Ergänzung: Bild)`
+## Wer war Maria Montessori? ## 
+![Maria Montessori](../images/330px-Dr._Maria_Montessori.jpg)
 
 Am 31. August 1870 wird Maria Montessori in Italien geboren. Nachdem sie 1896 als eine der ersten Ärztinnen Italiens
 promoviert hat, widmet sie sich wissenschaftlichen Studien über die Entwicklung von benachteiligten Kindern und deren
